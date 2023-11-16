@@ -2,6 +2,11 @@
 
 * [League Tech](README.md)
 
-## Group 1
+## Technical
 
-* [Page 1](group-1/page-1.md)
+* [Smart Contracts](technical/smart-contracts.md)
+
+## Legal
+
+* [Terms of Service](legal/terms-of-service.md)
+* [Privacy Policy](legal/privacy-policy.md)

@@ -1,6 +1,5 @@
----
-description: SocialFi Built Right
----
-
 # League Tech
 
+## Introduction
+
+League Tech is SocialFi built right.
