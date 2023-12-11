@@ -1,10 +1,14 @@
 # Table of contents
 
-* [League Tech](README.md)
+## Getting Started
+
+* [League Tech Introduction](README.md)
+* [Contracts Overview](getting-started/contracts-overview.md)
+* [Protocol Features](getting-started/protocol-features.md)
 
 ## Concepts
 
-* [SocialFi](concepts/socialfi.md)
+* [Social Finance](concepts/socialfi.md)
 * [Bonding Curve](concepts/bonding-curve.md)
 
 ## Technical

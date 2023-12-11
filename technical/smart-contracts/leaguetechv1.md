@@ -18,11 +18,17 @@ Gets the share supply
 
 Call Parameters
 
-| Name | Type |
-| ---- | ---- |
-|      |      |
-|      |      |
-|      |      |
+| Name | Type | Description |
+| ---- | ---- | ----------- |
+|      |      |             |
+|      |      |             |
+|      |      |             |
+
+Return Value
+
+| Type | Description |
+| ---- | ----------- |
+|      |             |
 
 #### getMyShares
 
