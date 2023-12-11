@@ -8,6 +8,10 @@ LeagueTechV1
 
 ### Roles
 
+Listed below are the roles on LeagueTechV1 and their responsibilities.
+
+<table><thead><tr><th width="278">Role</th><th width="228">Responsibility</th><th>Methods Accessible</th></tr></thead><tbody><tr><td><code>owner</code></td><td></td><td><ul><li>setPaused</li><li>setFeeDestination</li><li>setProtocolDev</li><li>setProtocolFeePercent</li><li>setSubjectFeePercent</li><li>setReferralFeePercent</li><li>setSubscriptionPrice</li><li>setSubscriptionDuration</li><li>withdrawFunds</li></ul></td></tr><tr><td><code>protocolDev</code></td><td></td><td><ul><li>setPaused</li></ul></td></tr><tr><td><code>protocolFeeDestination</code></td><td></td><td></td></tr></tbody></table>
+
 ### View Methods
 
 #### getPrice
@@ -26,9 +30,9 @@ Call Parameters
 
 Return Value
 
-| Type | Description |
-| ---- | ----------- |
-|      |             |
+| Type    | Description |
+| ------- | ----------- |
+| uint256 |             |
 
 #### getMyShares
 
