@@ -4,7 +4,7 @@ description: Terminology in League Tech
 
 # Social Finance
 
-### Passes
+## Passes
 
 Passes are the core ownership item in League Tech.
 
@@ -14,11 +14,11 @@ In order for others to buy your Passes, you must buy at least one Pass from your
 
 For more information on Pass pricing, see [Bonding Curve](bonding-curve.md).
 
-### Subscriptions
+## Subscriptions
 
 Subscribe to other user for a flat fee to get a taste of their paid content.
 
-### Referrals
+## Referrals
 
 Refer your friends and earn on all of their interactions with League Tech.
 

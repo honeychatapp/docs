@@ -4,7 +4,7 @@ description: Contract Deployments
 
 # Deployments
 
-### Andromeda Metis (1088)
+## Andromeda Metis (1088)
 
 | Contract     | Github | Address |
 | ------------ | ------ | ------- |
@@ -12,7 +12,7 @@ description: Contract Deployments
 | ProxyAdmin   |        |         |
 | Timelock     |        |         |
 
-### Goerli Metis (599)
+## Goerli Metis (599)
 
 | Contract     | Github | Address |
 | ------------ | ------ | ------- |

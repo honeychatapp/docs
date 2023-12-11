@@ -6,15 +6,15 @@ description: League Tech Core
 
 LeagueTechV1
 
-### Roles
+## Roles
 
 Listed below are the roles on LeagueTechV1 and their responsibilities.
 
 <table><thead><tr><th width="278">Role</th><th width="228">Responsibility</th><th>Methods Accessible</th></tr></thead><tbody><tr><td><code>owner</code></td><td></td><td><ul><li>setPaused</li><li>setFeeDestination</li><li>setProtocolDev</li><li>setProtocolFeePercent</li><li>setSubjectFeePercent</li><li>setReferralFeePercent</li><li>setSubscriptionPrice</li><li>setSubscriptionDuration</li><li>withdrawFunds</li></ul></td></tr><tr><td><code>protocolDev</code></td><td></td><td><ul><li>setPaused</li></ul></td></tr><tr><td><code>protocolFeeDestination</code></td><td></td><td></td></tr></tbody></table>
 
-### View Methods
+## View Methods
 
-#### getPrice
+### getPrice
 
 `getPrice(supply, amount)`
 
@@ -34,7 +34,7 @@ Return Value
 | ------- | ----------- |
 | uint256 |             |
 
-#### getMyShares
+### getMyShares
 
 `getMyShares(sharesSubject)`
 
@@ -48,7 +48,13 @@ Call Parameters
 |      |      |
 |      |      |
 
-#### getSharesSupply
+Return Value
+
+| Type    | Description |
+| ------- | ----------- |
+| uint256 |             |
+
+### getSharesSupply
 
 `getSharesSupply(sharesSubject)`
 
@@ -62,7 +68,13 @@ Call Parameters
 |      |      |
 |      |      |
 
-#### getBuyPrice
+Return Value
+
+| Type    | Description |
+| ------- | ----------- |
+| uint256 |             |
+
+### getBuyPrice
 
 `getBuyPrice(sharesSubject, amount)`
 
@@ -76,7 +88,7 @@ Call Parameters
 |      |      |
 |      |      |
 
-#### getSellPrice
+### getSellPrice
 
 `getSellPrice(sharesSubject, amount)`
 
@@ -90,7 +102,13 @@ Call Parameters
 |      |      |
 |      |      |
 
-#### getBuyPriceAfterFee
+Return Value
+
+| Type    | Description |
+| ------- | ----------- |
+| uint256 |             |
+
+### getBuyPriceAfterFee
 
 `getBuyPriceAfterFee(sharesSubject, amount)`
 
@@ -104,7 +122,13 @@ Call Parameters
 |      |      |
 |      |      |
 
-#### getSellPriceAfterFee
+Return Value
+
+| Type    | Description |
+| ------- | ----------- |
+| uint256 |             |
+
+### getSellPriceAfterFee
 
 `getSellPriceAfterFee(sharesSubject, amount)`
 
@@ -118,11 +142,23 @@ Call Parameters
 |      |      |
 |      |      |
 
+Return Value
+
+| Type    | Description |
+| ------- | ----------- |
+| uint256 |             |
+
 #### getSubscriptionPriceAfterFee
 
 `getSubscriptionPriceAfterFee()`
 
 Gets the share supply
+
+Return Value
+
+| Type    | Description |
+| ------- | ----------- |
+| uint256 |             |
 
 ### Write Methods
 
