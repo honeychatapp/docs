@@ -3,13 +3,20 @@
 ## Getting Started
 
 * [League Tech Introduction](README.md)
-* [Contracts Overview](getting-started/contracts-overview.md)
 * [Protocol Features](getting-started/protocol-features.md)
+* [Feature Benefits](getting-started/contracts-overview/README.md)
+  * [Creator](getting-started/contracts-overview/creator.md)
+  * [Trader](getting-started/contracts-overview/trader.md)
+  * [Pass HODLer](getting-started/contracts-overview/pass-hodler.md)
 
 ## Concepts
 
 * [Social Finance](concepts/socialfi.md)
-* [Bonding Curve](concepts/bonding-curve.md)
+* [Fee Model Overview](concepts/fee-model-overview.md)
+* [Passes Bonding Curve](concepts/bonding-curve.md)
+* [Subscriptions](concepts/subscriptions.md)
+* [Referrals](concepts/referrals.md)
+* [Reputation and Badges](concepts/reputation-and-badges.md)
 
 ## Technical
 
