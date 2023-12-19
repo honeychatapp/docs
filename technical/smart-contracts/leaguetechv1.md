@@ -55,7 +55,7 @@ Return Value
 
 `getSharesSupply(sharesSubject)`
 
-Gets the share supply
+Gets the total share supply of the `sharesSubject`.
 
 Call Parameters
 
@@ -73,7 +73,7 @@ Return Value
 
 `getBuyPrice(sharesSubject, amount)`
 
-Gets the share supply
+Gets the price to buy an `amount` of shares of the `sharesSubject` at the current supply.
 
 Call Parameters
 
@@ -92,7 +92,7 @@ Return Value
 
 `getSellPrice(sharesSubject, amount)`
 
-Gets the share supply
+Gets the price to sell an `amount` of shares of the `sharesSubject` at the current supply.
 
 Call Parameters
 
@@ -111,7 +111,7 @@ Return Value
 
 `getBuyPriceAfterFee(sharesSubject, amount)`
 
-Gets the share supply
+Gets the total price to buy an `amount` of shares of the `sharesSubject` at the current supply, including fees. The return value should be passed as the `msg.value` for a `buyShares` or `buySharesWithRefferer` transaction.
 
 Call Parameters
 
@@ -130,7 +130,7 @@ Return Value
 
 `getSellPriceAfterFee(sharesSubject, amount)`
 
-Gets the share supply
+Gets the total price to sell an `amount` of shares of the `sharesSubject` at the current supply, including fees. The return value should be passed as the `msg.value` for a `sellShares` transaction.
 
 Call Parameters
 
@@ -149,7 +149,7 @@ Return Value
 
 `getSubscriptionPriceAfterFee()`
 
-Gets the share supply
+Gets the total subscription price to subscribe to any user, including fees. The return value should be passed as the `msg.value` for a `buySubscription` or `buySubscriptionWithRefferer` transaction.
 
 Return Value
 
@@ -161,9 +161,9 @@ Return Value
 
 ### buySharesWithReferrer
 
-`buySharesWithReferrer(sharesSubject, amount, referrer)`
+`buySharesWithReferrer(sharesSubject, amount, referrer) payable`
 
-Gets the share supply
+Buy an `amount` of shares of the `sharesSubject` with a given `referrer`. Must pass the appropriate `msg.value`, returned from `getBuyPriceAfterFee`, for the transaction to succeed. This function can only be called by new users that have not previously bought any shares or subscriptions. The `referrer` earns fees on all future transactions that the caller makes.
 
 Call Parameters
 
@@ -175,9 +175,9 @@ Call Parameters
 
 ### buyShares
 
-`buyShares(sharesSubject, amount)`
+`buyShares(sharesSubject, amount) payable`
 
-Gets the share supply
+Buy an `amount` of shares of the `sharesSubject`. Must pass the appropriate `msg.value`, returned from `getBuyPriceAfterFee`, for the transaction to succeed.
 
 Call Parameters
 
@@ -190,7 +190,7 @@ Call Parameters
 
 `sellShares(sharesSubject, amount)`
 
-Gets the share supply
+Sell an `amount` of shares of the `sharesSubject`.
 
 Call Parameters
 
@@ -203,19 +203,19 @@ Call Parameters
 
 `enableSubscriptions()`
 
-Gets the share supply
+Enable subscriptions to the caller. Users can now pass the caller's address to `buySubscription` and `buyScriptionWithReferrer`.
 
 ### disableSubscriptions
 
 `disableSubscriptions()`
 
-Gets the share supply
+Disable new subscriptions to the caller. All existing subscriptions remain active until expiration.
 
 ### buySubscriptionWithReferrer
 
-`buySubscriptionWithReferrer(subscriptionsSubject, referrer)`
+`buySubscriptionWithReferrer(subscriptionsSubject, referrer) payable`
 
-Gets the share supply
+Buy a subscription to the `subscriptionSubject` with a given `referrer`. Must pass the appropriate `msg.value`, returned from `getSubscriptionPriceAfterFee`, for the transaction to succeed. This function can only be called by new users that have not previously bought any shares or subscriptions. The `referrer` earns fees on all future transactions that the caller makes. You must wait for your current subscription to expire before resubscribing to a `subscriptionSubject`.
 
 Call Parameters
 
@@ -226,9 +226,9 @@ Call Parameters
 
 ### buySubscription
 
-`buySubscription(subscriptionsSubject)`
+`buySubscription(subscriptionsSubject) payable`
 
-Gets the share supply
+Buy a subscription to the `subscriptionSubject`. Must pass the appropriate `msg.value`, returned from `getSubscriptionPriceAfterFee`, for the transaction to succeed. You must wait for your current subscription to expire before resubscribing to a `subscriptionSubject`.
 
 Call Parameters
 
