@@ -22,15 +22,7 @@ $$
 
 To illustrate these formulas, let’s say Amber buys a pass from someone who has five pass holders. The purchase price for such a pass with five holders is 0.00156 + 10% fee = 0.00171 METIS. Let’s say Amber wants to resell the pass when that person has 10 holders. The selling price would be 0.00506 – 10% fee = 0.00455 METIS. Therefore, Amber’s profit would be 0.00455 – 0.00171 = 0.00279 METIS.
 
-The trading fee of 10% is incorporated into the price during trades. The quadratic shape of League.Tech's bonding curve encourages early adoption and investment, favoring lower prices for early investors. However, by introducing pass shorting and tiered access with subscriptions, League.Tech addresses criticisms within the space, specifically concerns about the pass price becoming too high as popular creators' chat rooms attract more followers. This multifaceted approach ensures a more inclusive and sustainable model, countering the perception of benefits being limited to early adopters
-
-To determine the total value locked (TVL) of each pass, the selling formula can be expanded to the follow equation:
-
-$$
-f\left(x\right)=\frac{\left(x+1\right)\left(x+2\right)\left(2x+3\right)}{3750}
-$$
-
-Where `f(x)` is the TVL and `x` is the total passes in circulation. This equation is equivalent to summing the individual price of all passes up to supply `x`.
+The trading fee of 10% is incorporated into the price during trades. The quadratic shape of League.Tech's bonding curve encourages early adoption and investment, favoring lower prices for early investors. However, by introducing pass shorting and tiered access with subscriptions, League.Tech addresses criticisms within the space, specifically concerns about the pass price becoming too high as popular creators' chat rooms attract more followers. This multifaceted approach ensures a more inclusive and sustainable model, countering the perception of benefits being limited to early adopters.
 
 ## Price Dynamics in League.Tech
 
