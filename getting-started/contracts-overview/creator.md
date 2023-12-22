@@ -12,7 +12,7 @@ As a Creator on League.Tech, you hold a unique position in the new wave of digit
 
 **Subscription Fees:**
 
-* Tailor your path to success by earning 80% of subscription fees. This flexible model lets you cultivate a consistent revenue stream, reflecting the devoted fan base drawn to your exclusive content.
+* Tailor your path to success by earning subscription fees. This flexible model lets you cultivate a consistent revenue stream, reflecting the devoted fan base drawn to your exclusive content.
 
 **Tips:**
 
