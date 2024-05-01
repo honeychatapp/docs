@@ -3,11 +3,12 @@
 ## Basics
 
 * [Short Explainer](README.md)
-* [Why is League.Tech special?](getting-started/protocol-features.md)
-* [Feature Benefits](getting-started/contracts-overview/README.md)
-  * [Creator](getting-started/contracts-overview/creator.md)
-  * [Trader](getting-started/contracts-overview/trader.md)
-  * [Pass HODLer](getting-started/contracts-overview/pass-hodler.md)
+* [What is special about League.Tech?](basics/protocol-features/README.md)
+  * [Multi-Tiered Access](basics/protocol-features/multi-tiered-access.md)
+  * [Shorting](basics/protocol-features/shorting.md)
+  * [Badges & Reputation](basics/protocol-features/badges-and-reputation.md)
+  * [Seasonal Competitions](basics/protocol-features/seasonal-competitions.md)
+* [How to fund LT wallet](basics/how-to-fund-lt-wallet.md)
 
 ## Concepts
 
@@ -16,6 +17,10 @@
 * [Passes Bonding Curve](concepts/bonding-curve.md)
 * [Subscriptions](concepts/subscriptions.md)
 * [Referrals](concepts/referrals.md)
+* [Feature Benefits](concepts/contracts-overview/README.md)
+  * [Creator](concepts/contracts-overview/creator.md)
+  * [Trader](concepts/contracts-overview/trader.md)
+  * [Pass HODLer](concepts/contracts-overview/pass-hodler.md)
 
 ## Technical
 
