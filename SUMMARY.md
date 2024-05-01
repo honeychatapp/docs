@@ -2,7 +2,7 @@
 
 ## Basics
 
-* [Introduction](README.md)
+* [Short Explainer](README.md)
 * [Why is League.Tech special?](getting-started/protocol-features.md)
 * [Feature Benefits](getting-started/contracts-overview/README.md)
   * [Creator](getting-started/contracts-overview/creator.md)
