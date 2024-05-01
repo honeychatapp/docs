@@ -2,12 +2,12 @@
 
 ## Basics
 
-* [Short Introduction](README.md)
-* [Why is League.Tech special?](basics/protocol-features.md)
-* [Feature Benefits](basics/contracts-overview/README.md)
-  * [Creator](basics/contracts-overview/creator.md)
-  * [Trader](basics/contracts-overview/trader.md)
-  * [Pass HODLer](basics/contracts-overview/pass-hodler.md)
+* [Introduction](README.md)
+* [Why is League.Tech special?](getting-started/protocol-features.md)
+* [Feature Benefits](getting-started/contracts-overview/README.md)
+  * [Creator](getting-started/contracts-overview/creator.md)
+  * [Trader](getting-started/contracts-overview/trader.md)
+  * [Pass HODLer](getting-started/contracts-overview/pass-hodler.md)
 
 ## Concepts
 
