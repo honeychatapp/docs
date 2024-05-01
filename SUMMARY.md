@@ -1,13 +1,13 @@
 # Table of contents
 
-## Getting Started
+## Basics
 
-* [League Tech Introduction](README.md)
-* [Protocol Features](getting-started/protocol-features.md)
-* [Feature Benefits](getting-started/contracts-overview/README.md)
-  * [Creator](getting-started/contracts-overview/creator.md)
-  * [Trader](getting-started/contracts-overview/trader.md)
-  * [Pass HODLer](getting-started/contracts-overview/pass-hodler.md)
+* [Short Introduction](README.md)
+* [Why is League.Tech special?](basics/protocol-features.md)
+* [Feature Benefits](basics/contracts-overview/README.md)
+  * [Creator](basics/contracts-overview/creator.md)
+  * [Trader](basics/contracts-overview/trader.md)
+  * [Pass HODLer](basics/contracts-overview/pass-hodler.md)
 
 ## Concepts
 
@@ -16,7 +16,6 @@
 * [Passes Bonding Curve](concepts/bonding-curve.md)
 * [Subscriptions](concepts/subscriptions.md)
 * [Referrals](concepts/referrals.md)
-* [Reputation and Badges](concepts/reputation-and-badges.md)
 
 ## Technical
 
