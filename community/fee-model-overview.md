@@ -2,7 +2,7 @@
 
 League.Tech employs a transparent and flexible fee model to ensure fairness and sustainability within the ecosystem. The current fee structure is as follows:
 
-### Pass Trading Fees
+### Access Pass Trading Fees:
 
 * **Access Pass Owner Fee:** Pass owners, receive 5% of the total transaction amount. This incentivizes pass ownership and provides a direct benefit to the community members contributing to the platform's growth.
 * **Referrer Fee:** Referrers receive between .5% - 1.5% of the transaction amount. This referral fee is designed to reward users who introduce new members to the League.Tech community, fostering organic growth.
@@ -14,9 +14,8 @@ League.Tech employs a transparent and flexible fee model to ensure fairness and 
 
 Subscriptions have a default length of 30 days
 
-**Subscription Owner Fee:** 75% of the transaction maount is directed to the subscription owner.
-
-**Platform Fee:** 25% of the transaction amount is directed to the platform.&#x20;
+* **Subscription Owner Fee:** 75% of the transaction maount is directed to the subscription owner.
+* **Platform Fee:** 25% of the transaction amount is directed to the platform.&#x20;
 
 All these parameters are dynamic and can be updated, ensuring adaptability to changing market conditions and user preferences.
 

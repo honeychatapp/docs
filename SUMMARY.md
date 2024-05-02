@@ -13,16 +13,19 @@
 * [How to fund your LT wallet](basics/how-to-fund-your-lt-wallet.md)
 * [Referrals](basics/referrals.md)
 
-## Important
+## Community&#x20;
 
-* [Fee Model Overview](important/fee-model-overview.md)
-* [Badges, Reputation, and Airdrop](important/badges-reputation-and-airdrop.md)
-* [Social Finance](important/socialfi.md)
-* [Passes Bonding Curve](important/bonding-curve.md)
-* [Feature Benefits](important/contracts-overview/README.md)
-  * [Creator](important/contracts-overview/creator.md)
-  * [Trader](important/contracts-overview/trader.md)
-  * [Pass HODLer](important/contracts-overview/pass-hodler.md)
+* [Governance](community/governance.md)
+* [Token Distribution](community/token-distribution.md)
+* [Fee Model Overview](community/fee-model-overview.md)
+* [Badges, Reputation, and Airdrop](community/badges-reputation-and-airdrop.md)
+* [Social Finance](community/socialfi.md)
+* [Passes Bonding Curve](community/bonding-curve.md)
+* [Feature Benefits](community/contracts-overview/README.md)
+  * [Creator](community/contracts-overview/creator.md)
+  * [Trader](community/contracts-overview/trader.md)
+  * [Pass HODLer](community/contracts-overview/pass-hodler.md)
+* [DAO](community/dao.md)
 
 ## Technical
 
@@ -35,5 +38,6 @@
 
 ## Legal
 
+* [Code of Conduct](legal/code-of-conduct.md)
 * [Terms of Service](legal/terms-of-service.md)
 * [Privacy Policy](legal/privacy-policy.md)
