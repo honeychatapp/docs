@@ -8,19 +8,21 @@
   * [Shorting](basics/protocol-features/shorting.md)
   * [Badges & Reputation](basics/protocol-features/badges-and-reputation.md)
   * [Seasonal Competitions](basics/protocol-features/seasonal-competitions.md)
-* [How to fund LT wallet](basics/how-to-fund-lt-wallet.md)
+  * [Leagues (future)](basics/protocol-features/leagues-future.md)
+* [How to create an account](basics/how-to-create-an-account.md)
+* [How to fund your LT wallet](basics/how-to-fund-your-lt-wallet.md)
+* [Referrals](basics/referrals.md)
 
-## Concepts
+## Important
 
-* [Social Finance](concepts/socialfi.md)
-* [Fee Model Overview](concepts/fee-model-overview.md)
-* [Passes Bonding Curve](concepts/bonding-curve.md)
-* [Subscriptions](concepts/subscriptions.md)
-* [Referrals](concepts/referrals.md)
-* [Feature Benefits](concepts/contracts-overview/README.md)
-  * [Creator](concepts/contracts-overview/creator.md)
-  * [Trader](concepts/contracts-overview/trader.md)
-  * [Pass HODLer](concepts/contracts-overview/pass-hodler.md)
+* [Fee Model Overview](important/fee-model-overview.md)
+* [Badges, Reputation, and Airdrop](important/badges-reputation-and-airdrop.md)
+* [Social Finance](important/socialfi.md)
+* [Passes Bonding Curve](important/bonding-curve.md)
+* [Feature Benefits](important/contracts-overview/README.md)
+  * [Creator](important/contracts-overview/creator.md)
+  * [Trader](important/contracts-overview/trader.md)
+  * [Pass HODLer](important/contracts-overview/pass-hodler.md)
 
 ## Technical
 
