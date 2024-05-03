@@ -1,7 +1,7 @@
 ---
 description: >-
-  A groundbreaking feature, Access Pass Shorting directly on the bonding curve,
-  without the need for a counter party.
+  A novel feature, Access Pass Shorting directly on the bonding curve, without
+  the need for a counter party.
 ---
 
 # Shorting

@@ -12,19 +12,18 @@
 * [How to create an account](basics/how-to-create-an-account.md)
 * [How to fund your LT wallet](basics/how-to-fund-your-lt-wallet.md)
 * [Referrals](basics/referrals.md)
+* [Airdrop](basics/airdrop.md)
 
 ## Community&#x20;
 
 * [Governance](community/governance.md)
 * [Token Distribution](community/token-distribution.md)
-* [Fee Model Overview](community/fee-model-overview.md)
-* [Badges, Reputation, and Airdrop](community/badges-reputation-and-airdrop.md)
-* [Social Finance](community/socialfi.md)
-* [Passes Bonding Curve](community/bonding-curve.md)
-* [Feature Benefits](community/contracts-overview/README.md)
-  * [Creator](community/contracts-overview/creator.md)
-  * [Trader](community/contracts-overview/trader.md)
-  * [Pass HODLer](community/contracts-overview/pass-hodler.md)
+* [Fee Model Overview](important/fee-model-overview.md)
+* [Passes Bonding Curve](important/bonding-curve.md)
+* [Feature Benefits](important/contracts-overview/README.md)
+  * [Creator](important/contracts-overview/creator.md)
+  * [Trader](important/contracts-overview/trader.md)
+  * [Pass HODLer](important/contracts-overview/pass-hodler.md)
 * [DAO](community/dao.md)
 
 ## Technical

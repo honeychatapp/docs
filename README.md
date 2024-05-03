@@ -1,8 +1,8 @@
 # Short Explainer
 
-League.Tech is a decentralized social networking and finance (SocialFi) application built on the Metis blockchain. Through its approach to connecting creators, their audiences, and communities around shared common interests, League.Tech enables everyone to tailor their online experience.
+League.Tech is a decentralized social networking and finance (SocialFi) application. By connecting creators, their audiences, and communities around shared interests, League.Tech empowers anyone to thrive in the creator economy.
 
-League.Tech isn't just another social network; it’s a platform that empowers its users in true social, economic, and governance terms, making it a pioneer as the first social empowerment network.
+League.Tech isn't just another social network; it’s a platform that enables its users in true social, economic, and governance terms, making it a pioneer as the first social empowerment network.
 
 ## The best of Web2 & Web3
 

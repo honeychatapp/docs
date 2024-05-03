@@ -1,3 +1,3 @@
 # Code of Conduct
 
-Don't kill anyone
+Don't kill anyone.

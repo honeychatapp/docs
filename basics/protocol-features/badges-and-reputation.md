@@ -1,7 +1,8 @@
+---
+description: Badges = Airdrop
+---
+
 # Badges & Reputation
 
-### Badges for Reputation Management
-
-Badges reward achievements and deter misconduct, shaping a trustworthy and positive experience.
-
-badges serve as a reputation management tool, signaling users’ credibility or misconduct.
+Badges serve as the ground work for greater reputation management, signaling users’ credibility or misconduct. \
+\

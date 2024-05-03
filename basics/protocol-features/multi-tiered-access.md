@@ -1,37 +1,33 @@
 ---
 description: >-
-  This multi-layered access structure provides three distinct tiers for any
-  participant within the League.Tech platform.
+  This multi-layered access structure provides distinct tiers for participant
+  within the League.Tech platform.
 ---
 
 # Multi-Tiered Access
 
-## Access Passes
+## Tier 3: Access Pass
 
-Access Passes are the core ownership item in League Tech.
+_Access Passes are the core ownership item in League.Tech_
 
-League.Tech’s model creates a premium SocialFi experience, establishing pathways for both creators and fans to receive economic benefits for the growth of the creators’ popularity and the strength of the community. Individuals purchase passes tied to their chosen creators, unlocking exclusive privileges, gaining entry to private chat rooms, direct messaging, exclusive content, and additional perks established by each creator. For users reluctant to purchase passes upfront, League.Tech allows fans to subscribe to a content creator for a
+Individuals purchase access passes tied to their chosen creators, unlocking exclusive privileges, gaining entry to private chat rooms, direct messaging, exclusive content, and additional perks established by each creator. Purchasing an access pass gives you full access, including access to all other tiers. &#x20;
 
-{% hint style="info" %}
-In order for others to buy your Access Pass, you must buy at least one Pass from yourself.
+{% hint style="warning" %}
+In order for others to buy your Access Pass, you must buy at least one Pass from yourself. Once this action is complete, your pass can now be traded by anyone.&#x20;
 {% endhint %}
 
-#### Free Tier&#x20;
+## Tier 2: Private Feed
 
-Looks like X, must be X&#x20;
+Don't like the inconsistent pricing of Access Passes being traded? No problem! Private feeds offer a subscription model, providing a hassle-free way to support creators you love while gaining access to exclusive content and a more intimate community experience.
 
-#### Private Tier
+{% hint style="info" %}
+Subscription prices are initially set to free but can be manually adjusted by the content creator.
+{% endhint %}
 
-Content creators capitalize on the opportunity to create a consistent revenue stream by offering subscription-based access to a private feed.
+## Tier 1: Public Feed
 
-A subscription model allows people to subscribe to the content creator, granting access to an exclusive prviate feed of posts.&#x20;
+Looks like X, could be X \
 
-For users reluctant to purchase a pass upfront, an alternative subscription model allows them to subscribe to the content creator, granting access to an exclusive feed of posts. This multi-layered access structure provides three distinct tiers for any participant within the League.Tech platform.
 
-#### Access Pass
 
-All the above and a bag of chips&#x20;
 
-distinctive social tokens referred to as “**Access Passes**” within the League.Tech app.
-
-League.Tech ensures every user is equipped with a pass, enabling them to seamlessly transition between content creators and consumers. Individuals acquiring a creator's pass unlock exclusive privileges, gaining entry to private chat rooms and direect messages for one-to-many conversations, exclusive content, and other perks tailored by each creator. As social tokens are intricately linked to the creator's profile, these passes undergo price fluctuations reflective of the community's strength.
