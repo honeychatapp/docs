@@ -2,30 +2,29 @@
 
 ## Introduction
 
-* [Introducing League.Tech](README.md)
-  * [What is SocialFi?](introduction/readme/what-is-socialfi.md)
-* [🕐Quick Start](introduction/quick-start/README.md)
-  * [How to create an account](introduction/quick-start/how-to-create-an-account.md)
-  * [How to fund your LT wallet](introduction/quick-start/how-to-fund-your-lt-wallet.md)
+* [🐋 Introducing League.Tech](README.md)
+  * [Huh, SocialFi?](introduction/readme/huh-socialfi.md)
+* [🕐 Quick Start](introduction/quick-start/README.md)
+  * [How to create an account](basics/how-to-create-an-account.md)
+  * [How to fund your LT wallet](basics/how-to-fund-your-lt-wallet.md)
 
 ## Seasons & Airdrop
 
-* [Badges & Reputation](seasons-and-airdrop/badges-and-reputation.md)
-* [Seasons](seasons-and-airdrop/seasons.md)
-* [Season 1 - OG](seasons-and-airdrop/deployments.md)
+* [❤️‍🔥 Badges & Reputation](basics/protocol-features/badges-and-reputation.md)
+* [1️⃣ Season 1 - OG](seasons-and-airdrop/deployments.md)
 
 ## Basics
 
-* [Fee Model Overview](basics/fee-model-overview.md)
-* [Multi-Tiered Access](basics/multi-tiered-access.md)
-* [Shorting](basics/shorting.md)
-* [Referrals](basics/referrals.md)
-* [Access Pass Bonding Curve](basics/bonding-curve.md)
+* [🍯 Fee Model Overview](important/fee-model-overview.md)
+* [⚖️ Multi-Tiered Access](basics/protocol-features/multi-tiered-access.md)
+* [📉 Shorting](basics/protocol-features/shorting.md)
+* [🍻 Referrals](basics/referrals.md)
+* [➕ Access Pass Bonding Curves](important/bonding-curve.md)
 
 ## Community&#x20;
 
 * [💈 Governance](community/governance.md)
-* [📈 Growth & Ecosystem](community/growth-and-ecosystem.md)
+* [📈 Growth & Ecosystem](community/dao.md)
 
 ## Technical
 

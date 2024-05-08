@@ -1,2 +1,2 @@
-# Season 1 - OG
+# 1️⃣ Season 1 - OG
 

@@ -1,4 +1,4 @@
-# Referrals
+# 🍻 Referrals
 
 ## Referrals
 

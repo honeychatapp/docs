@@ -4,7 +4,7 @@ description: >-
   within the League.Tech platform.
 ---
 
-# Multi-Tiered Access
+# ⚖️ Multi-Tiered Access
 
 ## Tier 3: Access Pass
 

@@ -1,4 +1,4 @@
-# Fee Model Overview
+# 🍯 Fee Model Overview
 
 League.Tech employs a transparent and flexible fee model to ensure fairness and sustainability within the ecosystem. The current fee structure is as follows:
 
