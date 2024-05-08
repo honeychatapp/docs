@@ -1,42 +1,49 @@
 # Table of contents
 
+## Introduction
+
+* [Introducing League.Tech](README.md)
+  * [What is SocialFi?](introduction/readme/what-is-socialfi.md)
+* [🕐Quick Start](introduction/quick-start/README.md)
+  * [How to create an account](introduction/quick-start/how-to-create-an-account.md)
+  * [How to fund your LT wallet](introduction/quick-start/how-to-fund-your-lt-wallet.md)
+
+## Seasons & Airdrop
+
+* [Badges & Reputation](seasons-and-airdrop/badges-and-reputation.md)
+* [Seasons](seasons-and-airdrop/seasons.md)
+* [Season 1 - OG](seasons-and-airdrop/deployments.md)
+
 ## Basics
 
-* [Short Explainer](README.md)
-* [What is special about League.Tech?](basics/protocol-features/README.md)
-  * [Multi-Tiered Access](basics/protocol-features/multi-tiered-access.md)
-  * [Shorting](basics/protocol-features/shorting.md)
-  * [Badges & Reputation](basics/protocol-features/badges-and-reputation.md)
-  * [Seasonal Competitions](basics/protocol-features/seasonal-competitions.md)
-  * [Leagues (future)](basics/protocol-features/leagues-future.md)
-* [How to create an account](basics/how-to-create-an-account.md)
-* [How to fund your LT wallet](basics/how-to-fund-your-lt-wallet.md)
+* [Fee Model Overview](basics/fee-model-overview.md)
+* [Multi-Tiered Access](basics/multi-tiered-access.md)
+* [Shorting](basics/shorting.md)
 * [Referrals](basics/referrals.md)
-* [Airdrop](basics/airdrop.md)
+* [Access Pass Bonding Curve](basics/bonding-curve.md)
 
 ## Community&#x20;
 
-* [Governance](community/governance.md)
-* [Token Distribution](community/token-distribution.md)
-* [Fee Model Overview](important/fee-model-overview.md)
-* [Passes Bonding Curve](important/bonding-curve.md)
-* [Feature Benefits](important/contracts-overview/README.md)
-  * [Creator](important/contracts-overview/creator.md)
-  * [Trader](important/contracts-overview/trader.md)
-  * [Pass HODLer](important/contracts-overview/pass-hodler.md)
-* [DAO](community/dao.md)
+* [💈 Governance](community/governance.md)
+* [📈 Growth & Ecosystem](community/growth-and-ecosystem.md)
 
 ## Technical
 
-* [Smart Contracts](technical/smart-contracts/README.md)
+* [📚 Smart Contracts](technical/smart-contracts/README.md)
   * [LeagueTechV1](technical/smart-contracts/leaguetechv1.md)
   * [ProxyAdmin](technical/smart-contracts/proxyadmin.md)
   * [Timelock](technical/smart-contracts/timelock.md)
-* [Deployments](technical/deployments.md)
-* [Security & Audits](technical/security-and-audits.md)
+* [🫡 Deployments](technical/deployments.md)
+* [🔐 Security & Audits](technical/security-and-audits.md)
 
 ## Legal
 
-* [Code of Conduct](legal/code-of-conduct.md)
-* [Terms of Service](legal/terms-of-service.md)
-* [Privacy Policy](legal/privacy-policy.md)
+* [📏 Code of Conduct](legal/code-of-conduct.md)
+* [🐕‍🦺 Terms of Service](legal/terms-of-service.md)
+* [🥷 Privacy Policy](legal/privacy-policy.md)
+
+## Other Documents
+
+* [🫂 Community dApps](other-documents/community-dapps.md)
+* [🔗 Official Links](other-documents/official-links.md)
+* [🤘 Branding Guidelines](other-documents/branding-guidelines.md)

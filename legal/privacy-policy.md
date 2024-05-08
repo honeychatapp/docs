@@ -2,5 +2,5 @@
 description: League Tech Official Privacy Policy
 ---
 
-# Privacy Policy
+# 🥷 Privacy Policy
 

@@ -2,7 +2,7 @@
 description: Security is our top priority
 ---
 
-# Security & Audits
+# 🔐 Security & Audits
 
 League Tech's top priority is security. We value our users and want to earn their trust by providing an end-to-end secure experience while using our products.
 

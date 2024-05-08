@@ -2,7 +2,7 @@
 description: Contract Deployments
 ---
 
-# Deployments
+# 🫡 Deployments
 
 ## Andromeda Metis (1088)
 

@@ -2,7 +2,7 @@
 description: League Tech Official Terms of Service
 ---
 
-# Terms of Service
+# 🐕‍🦺 Terms of Service
 
 Please read these terms and conditions carefully before using League.Tech (“Terms”).
 

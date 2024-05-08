@@ -1,3 +1,3 @@
-# Code of Conduct
+# 📏 Code of Conduct
 
-Don't kill anyone.
+Follow human laws.

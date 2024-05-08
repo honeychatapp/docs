@@ -2,5 +2,5 @@
 description: Path to sufficient decentralization
 ---
 
-# DAO
+# 📈 Growth & Ecosystem
 
