@@ -3,10 +3,11 @@
 ## Introduction
 
 * [🤯 Introducing League.Tech](README.md)
-  * [What is SocialFi?](introduction/readme/what-is-socialfi.md)
-* [🕐 Quick Start](introduction/quick-start/README.md)
-  * [How to create an account](basics/how-to-create-an-account.md)
-  * [How to fund your LT wallet](basics/how-to-fund-your-lt-wallet.md)
+  * [Wait, what is SocialFi?](introduction/readme/wait-what-is-socialfi.md)
+* [❄️ What is special about League.Tech?](introduction/what-is-special-about-league.tech.md)
+* [🕐 Quick Start Guide](introduction/quick-start-guide/README.md)
+  * [How to create an account](introduction/quick-start-guide/how-to-create-an-account.md)
+  * [How to fund your LT wallet](introduction/quick-start-guide/how-to-fund-your-lt-wallet.md)
 
 ## Airdrop
 
@@ -19,7 +20,8 @@
 
 ## Basics
 
-* [🍯 Fee Model Overview](important/fee-model-overview.md)
+* [🍯 Fee Model Overview](basics/fee-model-overview/README.md)
+  * [Vesting](basics/fee-model-overview/vesting.md)
 * [⚖️ Multi-Tiered Access](basics/protocol-features/multi-tiered-access.md)
 * [📉 Shorting](basics/protocol-features/shorting.md)
 * [🍻 Referrals](basics/referrals.md)

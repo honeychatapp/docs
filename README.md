@@ -1,14 +1,14 @@
+---
+description: The Social Empowerment Network
+---
+
 # 🤯 Introducing League.Tech
 
-League.Tech is a decentralized social networking and finance (SocialFi) application. The free-to-join platform liberates content creators’ earning potential from traditional Web 2 constraints. By seamlessly connecting creators, their audiences, and communities around shared interests League.Tech empowers everyone to enter and thrive in the creator economy.
+League.Tech is a decentralized social networking and finance (SocialFi) application. The free-to-join platform seamlessly connects content creators, their audiences, and communities around shared interests. Liberating earning potentials from traditional Web 2 constraints.
 
-Our platform isn't just another social network; it's the first social empowerment network, enabling its users in true social, economic, and governance terms. Our mission is clear: **to empower anyone to thrive in the creator economy.**
+League.Tech isn't just another social network; it’s a platform that empowers its users in true social, economic, and governance terms, making it a pioneer as the **first** **social empowerment network.**
 
-To achieve this, our platform provides participants with the tools they need to succeed. At League.Tech, we believe in putting control in the hands of our participants. With our multi-tiered access system, users have the freedom to tailor their online experience.
-
-Our platform also provides an enhanced mechanism for price discovery through direct shorting on the bonding curve. Additionally, participants can showcase their skills and earn rewards by earning badges. \
-\
-The forthcoming Leagues feature will allow creators to schedule, monetize, and foster vibrant online communities.
+Our mission is clear: **to empower anyone to thrive in the creator economy.**
 
 ## The best of Web2 & Web3
 

@@ -1,4 +1,4 @@
-# What is SocialFi?
+# Wait, what is SocialFi?
 
 ### What is it?&#x20;
 
@@ -6,7 +6,7 @@ SocialFi represents a convergence of decentralized finance (DeFi) principles wit
 
 Operating on the premise of allowing users to monetize their interactions. Content creators can directly engage with their audience without intermediaries, marking a departure from the traditional social media model. Unique elements such as digital ownership through NFTs and DAOs for governance further enhance the experience.
 
-Most SocialFi projects enable creators to capitalize on their content through social tokens attached to a bonding curve, with a percentage of trading fees going to the pass creator. Within League.Tech, these are referred to as Access Passes, providing full access to a creator's content.\
+Most SocialFi projects enable creators to capitalize on their content through social tokens attached to a bonding curve, with a percentage of trading fees going to the content creator. Within League.Tech, these are referred to as Access Passes, providing full access to a creator's content.\
 
 
 ### Why do we need it?&#x20;
