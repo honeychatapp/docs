@@ -2,7 +2,7 @@
 description: Pass Pricing Mechanism
 ---
 
-# ➕ Access Pass Bonding Curves
+# 🧮 Access Pass Bonding Curves
 
 League.Tech employs a bonding curve to determine pass prices, acting as a mathematical formula governing token price changes. The bonding curve connects the creation of new passes with the cryptocurrency 'bonded' or put into the system.&#x20;
 

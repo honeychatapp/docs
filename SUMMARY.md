@@ -2,8 +2,8 @@
 
 ## Introduction
 
-* [🐋 Introducing League.Tech](README.md)
-  * [Huh, SocialFi?](introduction/readme/huh-socialfi.md)
+* [🤯 Introducing League.Tech](README.md)
+  * [Short intro to SocialFi](introduction/readme/short-intro-to-socialfi.md)
 * [🕐 Quick Start](introduction/quick-start/README.md)
   * [How to create an account](basics/how-to-create-an-account.md)
   * [How to fund your LT wallet](basics/how-to-fund-your-lt-wallet.md)

@@ -1,4 +1,4 @@
-# 🐋 Introducing League.Tech
+# 🤯 Introducing League.Tech
 
 League.Tech is more than just a decentralized social networking and finance (SocialFi) application. By seamlessly connecting creators, their audiences, and communities around shared interests, League.Tech empowers everyone to enter and thrive in the creator economy.
 
