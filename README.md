@@ -1,6 +1,6 @@
 # 🤯 Introducing League.Tech
 
-League.Tech is a decentralized social networking and finance (SocialFi) application. The free-to-join platform liberates content creators’ earning potential from traditional Web 2 constraints by seamlessly connecting creators, their audiences, and communities around shared interests. League.Tech empowers everyone to enter and thrive in the creator economy.
+League.Tech is a decentralized social networking and finance (SocialFi) application. The free-to-join platform liberates content creators’ earning potential from traditional Web 2 constraints. By seamlessly connecting creators, their audiences, and communities around shared interests League.Tech empowers everyone to enter and thrive in the creator economy.
 
 Our platform isn't just another social network; it's the first social empowerment network, enabling its users in true social, economic, and governance terms. Our mission is clear: **to empower anyone to thrive in the creator economy.**
 
