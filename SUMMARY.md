@@ -8,10 +8,14 @@
   * [How to create an account](basics/how-to-create-an-account.md)
   * [How to fund your LT wallet](basics/how-to-fund-your-lt-wallet.md)
 
-## Seasons & Airdrop
+## Airdrop
 
-* [❤️‍🔥 Badges & Reputation](basics/protocol-features/badges-and-reputation.md)
-* [1️⃣ Season 1 - OG](seasons-and-airdrop/deployments.md)
+* [❤️‍🔥 Badges](airdrop/badges.md)
+* [🏋️ Leaderboard](airdrop/leaderboard.md)
+
+## Seasons
+
+* [1️⃣ Season 1 - OG](seasons/deployments.md)
 
 ## Basics
 
@@ -25,6 +29,7 @@
 
 * [💈 Governance](community/governance.md)
 * [📈 Growth & Ecosystem](community/dao.md)
+* [🔅 Bug Reporting & Feature Requests](community/bug-reporting-and-feature-requests.md)
 
 ## Technical
 
@@ -34,6 +39,7 @@
   * [Timelock](technical/smart-contracts/timelock.md)
 * [🫡 Deployments](technical/deployments.md)
 * [🔐 Security & Audits](technical/security-and-audits.md)
+* [👜 Wallet Infrastructure](technical/wallet-infrastructure.md)
 
 ## Legal
 
