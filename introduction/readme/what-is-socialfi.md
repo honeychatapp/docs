@@ -1,4 +1,4 @@
-# Huh, SocialFi?
+# What is SocialFi?
 
 ### What is it?&#x20;
 
