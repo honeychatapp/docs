@@ -7,7 +7,7 @@
 * [❄️ What is special about League.Tech?](introduction/what-is-special-about-league.tech.md)
 * [🕐 Quick Start Guide](introduction/quick-start-guide/README.md)
   * [How to create an account](introduction/quick-start-guide/how-to-create-an-account.md)
-  * [How to fund your LT wallet](introduction/quick-start-guide/how-to-fund-your-lt-wallet.md)
+  * [How to fund your account](introduction/quick-start-guide/how-to-fund-your-account.md)
 
 ## Airdrop
 
