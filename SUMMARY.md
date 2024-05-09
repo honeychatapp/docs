@@ -19,7 +19,7 @@
 * [⚖️ Multi-Tiered Access](basics/protocol-features/multi-tiered-access.md)
 * [📉 Shorting](basics/protocol-features/shorting.md)
 * [🍻 Referrals](basics/referrals.md)
-* [➕ Access Pass Bonding Curves](important/bonding-curve.md)
+* [🧮 Access Pass Bonding Curves](important/bonding-curve.md)
 
 ## Community&#x20;
 
