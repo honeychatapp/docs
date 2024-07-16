@@ -1,5 +1,5 @@
 ---
-description: League Tech Official Privacy Policy
+description: Honey Chat Official Privacy Policy
 ---
 
 # 🥷 Privacy Policy

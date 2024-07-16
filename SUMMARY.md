@@ -6,6 +6,7 @@
   * [Short SocialFi Explainer](introduction/readme/short-socialfi-explainer.md)
 * [❄️ What is special about Honey Chat?](introduction/what-is-special-about-league.tech.md)
 * [🕐 Quick Start Guide](introduction/quick-start-guide/README.md)
+  * [Begin here](introduction/quick-start-guide/begin-here.md)
   * [How to create an account](introduction/quick-start-guide/how-to-create-an-account.md)
   * [How to fund your account](basics/how-to-fund-your-lt-wallet.md)
 

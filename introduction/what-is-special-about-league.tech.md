@@ -4,8 +4,8 @@
 
 ## Badges
 
-## Multi-Tiered Access
+## Flexible Content Access
 
 ## Referral Program
 
-## Leagues (future)
+## Hives (future)
