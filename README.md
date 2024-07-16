@@ -2,21 +2,21 @@
 description: The Social Empowerment Network
 ---
 
-# 🤯 Introducing League.Tech
+# 🤯 Introducing Honey Chat
 
-League.Tech is a decentralized social networking and finance (SocialFi) application. The free-to-join platform seamlessly connects content creators, their audiences, and communities around shared interests. Liberating earning potentials from traditional Web 2 constraints.
+Honey Chat is a decentralized social networking and finance (SocialFi) application. The free-to-join platform seamlessly connects content creators, their audiences, and communities around shared interests. Liberating earning potentials from traditional Web 2 constraints.
 
-League.Tech isn't just another social network; it’s a platform that empowers its users in true social, economic, and governance terms, making it a pioneer as the **first** **social empowerment network.**
+Honey Chat isn't just another social network; it’s a platform that empowers its users in true social, economic, and governance terms.
 
 Our mission is clear: **to empower anyone to thrive in the creator economy.**
 
 ## The best of Web2 & Web3
 
-League.Tech features the best attributes of Web3, serving as a gateway for existing Web2 social media users, providing them autonomy and the decentralized benefits offered by blockchain technology.
+Honey Chat features the best attributes of Web3, serving as a gateway for existing Web2 social media users, providing them autonomy and the decentralized benefits offered by blockchain technology.
 
 ## Creator Tools
 
-League.Tech offers a suite of monetization options, empowering content creators to generate revenue through diverse and innovative methods, beyond traditional platforms.
+Honey Chat offers a suite of monetization options, empowering content creators to generate revenue through diverse and innovative methods, beyond traditional platforms.
 
 ## Reputation & Data Ownership
 

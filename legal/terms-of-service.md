@@ -1,22 +1,22 @@
 ---
-description: League Tech Official Terms of Service
+description: Honey Chat Official Terms of Service
 ---
 
 # 🐕‍🦺 Terms of Service
 
-Please read these terms and conditions carefully before using League.Tech (“Terms”).
+Please read these terms and conditions carefully before using Honey Chat (“Terms”).
 
 ### 1. Definitions
 
 For the purposes of these Terms:
 
-**Application** means the League.Tech application which is a decentralized application deployed on the blockchain and accessed on the Site or downloaded by You on any electronic device.
+**Application** means the Honey Chat application which is a decentralized application deployed on the blockchain and accessed on the Site or downloaded by You on any electronic device.
 
 **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 
 **Service** refers to the Application.
 
-**Site** means League.Tech´s websites, including league.tech (and any respective sub-domain) and all associated websites linked thereto by League.Tech.
+**Site** means Honey ChatTech´s websites, including league.tech (and any respective sub-domain) and all associated websites linked thereto by League.Tech.
 
 **You** means the individual accessing or using the Site or Service, or other legal entity on behalf of which such individual is accessing or using the Site or Service, as applicable.
 

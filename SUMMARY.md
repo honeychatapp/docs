@@ -2,17 +2,17 @@
 
 ## Introduction
 
-* [🤯 Introducing League.Tech](README.md)
+* [🤯 Introducing Honey Chat](README.md)
   * [Short SocialFi Explainer](introduction/readme/short-socialfi-explainer.md)
-* [❄️ What is special about League.Tech?](introduction/what-is-special-about-league.tech.md)
+* [❄️ What is special about Honey Chat?](introduction/what-is-special-about-honey-chat.md)
 * [🕐 Quick Start Guide](introduction/quick-start-guide/README.md)
   * [How to create an account](introduction/quick-start-guide/how-to-create-an-account.md)
   * [How to fund your account](basics/how-to-fund-your-lt-wallet.md)
 
-## Airdrop
+## Beradrop
 
-* [❤️‍🔥 Badges](airdrop/badges.md)
-* [🏋️ Leaderboard](airdrop/leaderboard.md)
+* [❤️‍🔥 Badges](beradrop/badges.md)
+* [🏋️ Leaderboard](beradrop/leaderboard.md)
 
 ## Seasons
 
@@ -22,7 +22,7 @@
 
 * [🍯 Fee Model Overview](basics/fee-model-overview/README.md)
   * [Vesting](basics/fee-model-overview/vesting.md)
-* [⚖️ Multi-Tiered Access](basics/protocol-features/multi-tiered-access.md)
+* [⚖️ Flexible Content Access](basics/flexible-content-access.md)
 * [🍻 Referrals](basics/referrals.md)
 * [🧮 Access Pass Bonding Curves](important/bonding-curve.md)
 * [📉 Shorting](basics/protocol-features/shorting.md)
