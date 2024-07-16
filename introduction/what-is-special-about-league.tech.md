@@ -1,4 +1,4 @@
-# ❄️ What is special about League.Tech?
+# ❄️ What is special about Honey Chat?
 
 ## Shorting
 
