@@ -15,7 +15,7 @@ layout:
 
 # 🕐 Quick Start Guide
 
-Guide to becoming a Bee Step 1: Bee Disguise Step 2: Get your first Honey Step 3: Enter Honey Chat
+Guide to becoming a Bee&#x20;
 
 <div align="left">
 
