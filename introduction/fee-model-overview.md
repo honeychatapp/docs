@@ -10,6 +10,8 @@ Honey Chat employs a transparent and flexible fee model to ensure fairness and s
 
 **Total Fee:** The cumulative effect of the platform fee, share owner fee, and referrer fee results in a 10% fee on all transactions within the Honey Chat ecosystem. It's important to note that liquidation transactions, performed as a service for the platform, do not incur any fees for the liquidator.
 
+## Vesting
+
 ### **Subscription Model:**
 
 Subscriptions have a default length of 30 days
@@ -20,4 +22,6 @@ Subscriptions have a default length of 30 days
 All these parameters are dynamic and can be updated, ensuring adaptability to changing market conditions and user preferences.
 
 
+
+## Vestings
 

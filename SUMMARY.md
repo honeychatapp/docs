@@ -2,38 +2,31 @@
 
 ## Introduction
 
-* [🤯 Introducing Honey Chat app](README.md)
-  * [Short SocialFi Explainer](introduction/readme/short-socialfi-explainer.md)
-* [❄️ What is special about Honey Chat?](introduction/what-is-special-about-league.tech.md)
-* [🕐 Quick Start Guide](introduction/quick-start-guide/README.md)
-  * [Begin here](introduction/quick-start-guide/begin-here.md)
-  * [How to create an account](introduction/quick-start-guide/how-to-create-an-account.md)
-  * [How to fund your account](basics/how-to-fund-your-lt-wallet.md)
+* [😄 A Short Explainer](README.md)
+* [⚖️ Flexible Content Access](introduction/flexible-content-access.md)
+* [🍯 Fee Model Overview](introduction/fee-model-overview.md)
+* [🔗 Official Links](introduction/official-links.md)
+
+## HOW-TO GUIDES
+
+* [Become a Bee Bera](how-to-guides/become-a-bee-bera.md)
+* [Create an account](how-to-guides/create-an-account.md)
+* [Fund your wallet](how-to-guides/fund-your-wallet.md)
+* [Setup your chatroom](how-to-guides/setup-your-chatroom.md)
+* [Setup your subscription](how-to-guides/setup-your-subscription.md)
+* [Refer your friends](how-to-guides/refer-your-friends.md)
+* [Participate in Beradrop](how-to-guides/participate-in-beradrop.md)
 
 ## Beradrop
 
 * [❤️‍🔥 Badges](airdrop/badges.md)
 * [🏋️ Leaderboard](airdrop/leaderboard.md)
+* [↗️ Seasons](beradrop/deployments.md)
 
-## Seasons
+## maths
 
-* [1️⃣ Season 1 - OG](seasons/deployments.md)
-
-## Basics
-
-* [🍯 Fee Model Overview](basics/fee-model-overview/README.md)
-  * [Vesting](basics/fee-model-overview/vesting.md)
-* [⚖️ Flexible Content Access](basics/protocol-features/multi-tiered-access.md)
-* [🍻 Referrals](basics/referrals.md)
-* [🧮 Access Pass Bonding Curves](important/bonding-curve.md)
-* [📉 Shorting](basics/protocol-features/shorting.md)
-
-## Community&#x20;
-
-* [🤖 Bot Mitigation](community/bot-mitigation.md)
-* [💈 Governance](community/governance.md)
-* [📈 Growth & Ecosystem](community/dao.md)
-* [🔅 Bug Reporting & Feature Requests](community/bug-reporting-and-feature-requests.md)
+* [🧮 Access Pass Bonding Curves](maths/bonding-curve.md)
+* [📉 Shorting](maths/shorting.md)
 
 ## Technical
 
@@ -43,7 +36,8 @@
   * [Timelock](technical/smart-contracts/timelock.md)
 * [🫡 Deployments](technical/deployments.md)
 * [🔐 Security & Audits](technical/security-and-audits.md)
-* [👜 Wallet Infrastructure](technical/wallet-infrastructure.md)
+* [👜 Wallet Infrastructure](technical/wallet-infrastructure/README.md)
+  * [🔅 Bug Reporting & Feature Requests](technical/wallet-infrastructure/bug-reporting-and-feature-requests.md)
 
 ## Legal
 
@@ -51,8 +45,8 @@
 * [🐕‍🦺 Terms of Service](legal/terms-of-service.md)
 * [🥷 Privacy Policy](legal/privacy-policy.md)
 
-## Other Documents
+## Other&#x20;
 
-* [🫂 Community dApps](other-documents/community-dapps.md)
-* [🔗 Official Links](other-documents/official-links.md)
-* [🤘 Branding Guidelines](other-documents/branding-guidelines.md)
+* [🤘 Branding Guidelines](other/branding-guidelines.md)
+* [🤝 Partnerships](other/partnerships.md)
+* [Press Inquiries](other/press-inquiries.md)
