@@ -35,8 +35,8 @@
   * [Timelock](technical/smart-contracts/timelock.md)
 * [🫡 Deployments](technical/deployments.md)
 * [🔐 Security & Audits](technical/security-and-audits.md)
-* [👜 Wallet Infrastructure](technical/wallet-infrastructure/README.md)
-  * [🔅 Bug Reporting & Feature Requests](technical/wallet-infrastructure/bug-reporting-and-feature-requests.md)
+* [👜 Wallet Infrastructure](technical/wallet-infrastructure.md)
+* [🔅 Bug Reporting & Feature Requests](technical/bug-reporting-and-feature-requests.md)
 
 ## Legal
 
