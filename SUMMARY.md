@@ -7,12 +7,11 @@
 
 ## HOW-TO GUIDES
 
-* [Become a Bee Bera](how-to-guides/become-a-bee-bera.md)
 * [Create an account](how-to-guides/create-an-account.md)
 * [Fund your wallet](how-to-guides/fund-your-wallet.md)
+* [Refer your friends](how-to-guides/refer-your-friends.md)
 * [Setup your chatroom](how-to-guides/setup-your-chatroom.md)
 * [Setup your subscription](how-to-guides/setup-your-subscription.md)
-* [Refer your friends](how-to-guides/refer-your-friends.md)
 * [Participate in Beradrop](how-to-guides/participate-in-beradrop.md)
 
 ## Beradrop
