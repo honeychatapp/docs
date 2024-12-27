@@ -3,8 +3,6 @@
 ## Introduction
 
 * [😄 A Short Explainer](README.md)
-* [⚖️ Flexible Content Access](introduction/flexible-content-access.md)
-* [🍯 Fee Model Overview](introduction/fee-model-overview.md)
 * [🔗 Official Links](introduction/official-links.md)
 
 ## HOW-TO GUIDES
@@ -25,6 +23,8 @@
 
 ## maths
 
+* [🍯 Fee Model Overview](maths/fee-model-overview.md)
+* [⚖️ Tiered Access](maths/tiered-access.md)
 * [🧮 Access Pass Bonding Curves](maths/bonding-curve.md)
 * [📉 Shorting](maths/shorting.md)
 
