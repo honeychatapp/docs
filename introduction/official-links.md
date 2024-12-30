@@ -5,3 +5,5 @@
 **Application:**[  https://buzz.honeychat.app](https://buzz.honeychat.app)
 
 **Twitter/X:** [https://x.com/HoneyChatApp](https://x.com/HoneyChatApp)
+
+**Berachain:**  [https://berachain.com](https://www.berachain.com)
