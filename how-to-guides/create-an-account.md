@@ -7,20 +7,13 @@ description: >-
 
 # Create an account
 
-**Step 1:** Navigate to [https://buzz.honeychat.app](https://buzz.honeychat.app) on your browser. Honey Chat is optimized for Chrome/Brave.&#x20;
+**Step 1:** Open your browser (Chrome or Brave recommended) and go to [https://buzz.honeychat.app](https://buzz.honeychat.app/)\
+**Step 2:** Click on the "Enter Through X" button to use Single Sign-On (SSO).\
+**Step 3:** Follow the prompts to authorize Honey Chat to access your X account. Once authorized, **boom! Your account is created!**
 
 <figure><img src="../.gitbook/assets/Test.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-To speed up the login process, login to your Twitter account on same browser you attempting to login to Honey Chat app.&#x20;
+To ensure a seamless login experience, please make sure you are logged into your X/Twitter account using the same browser you are using to access the Honey Chat app.
 {% endhint %}
 
-**Step 2: Login wiht your Twitter account**
-
-<div align="left"><figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure></div>
-
-<div align="left"><figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure></div>
-
-Step 3:&#x20;
-
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
