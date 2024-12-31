@@ -14,6 +14,6 @@ description: >-
 <figure><img src="../.gitbook/assets/Test.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-To ensure a seamless login experience, please make sure you are logged into your X/Twitter account on the same browser you are using to access the Honey Chat app.
+To ensure a seamless login experience, please make sure you are logged into your X/Twitter account prior to creating an account on the Honey Chat app.&#x20;
 {% endhint %}
 
