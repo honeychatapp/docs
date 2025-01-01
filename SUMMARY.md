@@ -8,10 +8,10 @@
 ## HOW-TO GUIDES
 
 * [Create an account](how-to-guides/create-an-account.md)
-* [Fund your wallet](how-to-guides/fund-your-wallet.md)
-* [Refer your friends](how-to-guides/refer-your-friends.md)
-* [Setup your chatroom](how-to-guides/setup-your-chatroom.md)
-* [Setup your subscription](how-to-guides/setup-your-subscription.md)
+* [Fund your Wallet](how-to-guides/fund-your-wallet.md)
+* [Refer your Friends](how-to-guides/refer-your-friends.md)
+* [Setup your Chatroom](how-to-guides/setup-your-chatroom.md)
+* [Setup your Subscription](how-to-guides/setup-your-subscription.md)
 * [Participate in Beradrop](how-to-guides/participate-in-beradrop.md)
 
 ## Beradrop
