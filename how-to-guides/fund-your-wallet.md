@@ -14,7 +14,7 @@ Token Info: [HONEY](https://docs.berachain.com/learn/pol/tokens/honey) | [BERA](
 
 ### **Bridge in & Deposit**&#x20;
 
-Connect your wallet, bridge, swap, and deposit assets from another blockchain to Berachain
+Connect an existing wallet and simply bridge, swap, and deposit assets from another blockchain to your Honey Chat wallet on Berachain.
 
 **Step 1:** Navigate to the wallet page\
 **Step 2:** Click on the "Deposit" button, then select "Bridge in and deposit" from the dropdown menu.\
@@ -32,11 +32,11 @@ Your Honey Chat wallet is automatically set as the destination for your deposit.
 
 Connect your wallet to Honey Chat and transfer HONEY directly from another wallet. Ensure you have some BERA for gas fees.
 
-## Fund your Wallet with Cash (coming soon)
-
 **Step 1:** Navigate to the wallet page\
 **Step 2:** Click on the "Deposit" button, then select "Connect an external wallet" from the dropdown menu.\
 **Step 3:** Connect the wallet you wish to use \
 **Step 4:** Select which token you want to transfer and deposit
 
 <figure><img src="../.gitbook/assets/Honey Chat Test (2).png" alt=""><figcaption></figcaption></figure>
+
+## Fund your Wallet with Cash (coming soon)
