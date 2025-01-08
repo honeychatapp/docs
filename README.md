@@ -18,6 +18,6 @@ Social media has revolutionized how we communicate, share, and monetize our inte
 
 Enter SocialFi, deeply rooted in the core principles of Web3. It revolutionizes online social interactions by introducing social tokens tied to individual brand value. No longer are users passive participants in a platform's revenue model; instead, they can tangibly monetize their influence, engagements, and content. This tokenization shifts the balance of power, placing control and value in the hands of individual contributors rather than centralized entities. With social tokens, your "Social Capital" is no longer an abstract metric but something tangible that you can calculate and leverage.
 
-SocialFi bridges the gap between the attention economy and the creator economy, with the creator economy estimated to approach half a trillion dollars by 2027. It promises a more equitable, transparent, and empowering social ecosystem where individuals are recognized, rewarded, and have agency over their online presence and interactions.
+SocialFi provides a more equitable, transparent, and empowering social ecosystem where individuals are recognized, rewarded, and have agency over their online presence and interactions.
 
 ## &#x20;

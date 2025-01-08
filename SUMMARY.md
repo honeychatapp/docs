@@ -12,7 +12,7 @@
 * [Refer your Friends](how-to-guides/refer-your-friends.md)
 * [Setup your Chatroom](how-to-guides/setup-your-chatroom.md)
 * [Setup your Subscription](how-to-guides/setup-your-subscription.md)
-* [Participate in Beradrop](how-to-guides/participate-in-beradrop.md)
+* [Earn Badges for Beradrop](how-to-guides/earn-badges-for-beradrop.md)
 
 ## Beradrop
 
