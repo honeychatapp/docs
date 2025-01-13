@@ -1,14 +1,16 @@
 ---
 icon: '3'
-description: Refer to Earn!
+description: >-
+  Grow your circle and reap rewards by inviting new bera's to join the Honey
+  Chat community.
 ---
 
 # Refer your Friends
 
-**Step 1:** Navigate to the "Refer to Earn" section in Honey Chat's app.\
-**Step 2:** Review the referral program's benefits and terms.\
-**Step 3:** Select "Affiliates" and then "Your Referral" tabs.\
-Step 4: Create your unique referral code.\
-Step 5: Share your code/link!
+**Step 1:** Open the Honey Chat app and locate the "Refer & Earn" section. It's your gateway to earning rewards.\
+**Step 2:** Take a moment to review the details of the referral program, and learn how your referrals benefit both you and your friends.\
+**Step 3:** Navigate to "Affiliates" tab, then select "Your Referral" to access your personal referral dashboard.\
+Step 4: Here, you'll create or find your unique referral code or link. This is your personal invitation for others to join Honey Chat.\
+Step 5: Share your referral code/link!&#x20;
 
-<figure><img src="../.gitbook/assets/Honey Chat Test (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Honey Chat Test (11).png" alt=""><figcaption></figcaption></figure>
