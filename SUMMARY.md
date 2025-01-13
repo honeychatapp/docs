@@ -10,7 +10,7 @@
 * [Create an account](how-to-guides/create-an-account.md)
 * [Fund your Wallet](how-to-guides/fund-your-wallet.md)
 * [Refer your Friends](how-to-guides/refer-your-friends.md)
-* [Create your Access Pass](how-to-guides/create-your-access-pass.md)
+* [Create your Access Pass](how-to-guides/setup-your-chatroom.md)
 * [Setup your Subscription](how-to-guides/setup-your-subscription.md)
 * [Earn Badges for Beradrop](how-to-guides/earn-badges-for-beradrop.md)
 

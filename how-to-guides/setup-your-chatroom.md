@@ -1,8 +1,8 @@
 ---
-icon: '4'
 description: >-
   This guide will walk you through the process of creating your own access pass,
   which also serves as your private group chatroom.
+icon: '4'
 ---
 
 # Create your Access Pass
