@@ -10,12 +10,6 @@ Honey Chat is a decentralized Social Networking and Finance (SocialFi) App—w**
 
 Imagine a place where **fans, creators, and influencers seamlessly connect**, where your social interactions are not just about likes and shares but are **sweetened** with the taste of digital currency. Welcome to Honey Chat, a platform where **consumer crypto and the creator economy blend seamlessly.** Here, we're not just chatting; we're creating a BUZZ in the world of SocialFi.&#x20;
 
-
-
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-
-
 ## What is SocialFi?&#x20;
 
 SocialFi represents a convergence of decentralized finance (DeFi) principles with the dynamics of social media. This transformative concept aims to reshape the landscape of digital interactions by putting control, ownership, and monetization directly into the hands of content creators and their audiences.
