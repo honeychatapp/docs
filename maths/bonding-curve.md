@@ -28,14 +28,6 @@ The trading fee of 10% is incorporated into the price during trades. The quadrat
 
 The relationship between price and supply in Honey Chat is governed by a bonding curve equation that dynamically determines the pass price based on its supply. As the user base engages in buying passes, the price of each new pass rises in response to the bonding curve equation. Conversely, should users decide to sell their passes, the price experiences a decrease.
 
-### Pass Transactions in Honey Chat
-
-#### Buying Passes:
-
-When users aim to acquire a pass, such as one associated with a content creator, the HONEY price is calculated by considering the current supply and the bonding curve equation. The buyer, upon completing the transaction, receives passes, contributing to an increase in the total supply of passes.
-
-#### Selling Passes:
-
-For users opting to sell their passes, the HONEY they receive is determined by the current supply and the bonding curve equation. The seller obtains HONEY, resulting in a decrease in the overall supply of passes.
+###
 
 ####

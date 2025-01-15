@@ -1,2 +1,0 @@
-# 🔅 Bug Reporting & Feature Requests
-
