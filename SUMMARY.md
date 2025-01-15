@@ -16,7 +16,7 @@
 
 ## Beradrop
 
-* [🚀 Beradrop Overview](beradrop/beradrop-overview.md)
+* [🚀 Points Overview](beradrop/points-overview.md)
 * [❤️‍🔥 Badges](airdrop/badges.md)
 * [🏋️ Leaderboard](airdrop/leaderboard.md)
 * [↗️ Seasons](beradrop/deployments.md)

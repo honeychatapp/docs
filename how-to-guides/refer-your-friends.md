@@ -1,8 +1,6 @@
 ---
 icon: '3'
-description: >-
-  Grow your circle and reap rewards by inviting new bera's to join the Honey
-  Chat community.
+description: Reap rewards by inviting new bera's to join the Honey Chat app.
 ---
 
 # Refer your Friends

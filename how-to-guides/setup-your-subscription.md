@@ -1,6 +1,8 @@
 ---
 icon: '5'
-description: Empower your content creation by establishing a subscription model
+description: >-
+  Expand your content strategy by setting up an private feed accessible only to
+  your subscribers!
 ---
 
 # Setup your Subscription
@@ -16,5 +18,5 @@ Step 5: Set it!&#x20;
 {% hint style="info" %}
 All of your Access Pass holders automatically receive your subscription content. \
 \
-While if a fan is just subscribing, they will need to resubscribe to your content every month to maintain access. This recurring model ensures continuous engagement and support for your content.
+If a fan simply subscribes, they'll need to renew their subscription monthly to keep enjoying your content.&#x20;
 {% endhint %}

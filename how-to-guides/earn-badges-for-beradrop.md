@@ -2,7 +2,7 @@
 icon: '6'
 description: >-
   The primary way to earn the Beradrop is to earn badges on Honey Chat! The
-  secondary way is to compete on the Leaderboard.
+  secondary way is to compete on the Leaderboard!
 ---
 
 # Earn Badges for Beradrop
