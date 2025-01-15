@@ -4,15 +4,15 @@ description: >-
   within the Honey Chat app.
 ---
 
-# ⚖️ Flexible Content Access
+# ⚖️ Tiered Access
 
 ## Public Feed
 
-Looks like X, could be X&#x20;
+Available for anyone to see on the Honey Chat app.&#x20;
 
 ## Private Feed (Subscription)
 
-Don't like the inconsistent pricing of Access Passes being traded? No problem! Private feeds offer a subscription model, providing a hassle-free way to support creators you love while gaining access to exclusive content and a more intimate community experience.
+Private feeds offer a subscription model, providing a hassle-free way to support creators, while gaining access to exclusive content and a more intimate community experience.
 
 {% hint style="info" %}
 Subscription prices are initially set to free but can be manually adjusted by the content creator.
