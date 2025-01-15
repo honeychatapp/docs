@@ -1,3 +1,3 @@
 # 📏 Code of Conduct
 
-Follow human laws.
+Be excellent to each other.
