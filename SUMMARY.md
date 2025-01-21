@@ -31,7 +31,7 @@
 ## Technical
 
 * [📚 Smart Contracts](technical/smart-contracts/README.md)
-  * [LeagueTechV1](technical/smart-contracts/leaguetechv1.md)
+  * [HoneyChatV1](technical/smart-contracts/leaguetechv1.md)
   * [ProxyAdmin](technical/smart-contracts/proxyadmin.md)
   * [Timelock](technical/smart-contracts/timelock.md)
 * [🫡 Deployments](technical/deployments.md)

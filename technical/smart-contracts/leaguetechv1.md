@@ -1,16 +1,10 @@
----
-description: League Tech Core
----
-
-# LeagueTechV1
-
-LeagueTechV1
+# HoneyChatV1
 
 ## Roles
 
-Listed below are the roles on LeagueTechV1 and their responsibilities.
+Listed below are the roles on HoneyChatV1 and their responsibilities.
 
-<table><thead><tr><th width="278">Role</th><th width="210.56373937677054">Responsibilities</th><th>Methods Accessible</th></tr></thead><tbody><tr><td><code>owner</code></td><td><ul><li>Pause/unpause the contract</li><li>Set protocol addresses</li><li>Set fee percentages</li><li>Set subscription parameters</li><li>Withdraw lost funds </li></ul></td><td><ul><li>setPaused</li><li>setFeeDestination</li><li>setProtocolDev</li><li>setProtocolFeePercent</li><li>setSubjectFeePercent</li><li>setReferralFeePercent</li><li>setSubscriptionPrice</li><li>setSubscriptionDuration</li><li>withdrawFunds</li></ul></td></tr><tr><td><code>protocolDev</code></td><td><ul><li>Pause/unpause the contract</li></ul></td><td><ul><li>setPaused</li></ul></td></tr></tbody></table>
+<table><thead><tr><th width="278">Role</th><th width="210.56373937677054">Responsibilities</th><th>Methods Accessible</th></tr></thead><tbody><tr><td><code>owner</code></td><td><ul><li>Pause/unpause the contract</li><li>Set protocol addresses</li><li>Set fee percentages</li><li>Set subscription parameters</li><li>Withdraw lost funds</li></ul></td><td><ul><li>setPaused</li><li>setFeeDestination</li><li>setProtocolDev</li><li>setProtocolFeePercent</li><li>setSubjectFeePercent</li><li>setReferralFeePercent</li><li>setSubscriptionPrice</li><li>setSubscriptionDuration</li><li>withdrawFunds</li></ul></td></tr><tr><td><code>protocolDev</code></td><td><ul><li>Pause/unpause the contract</li></ul></td><td><ul><li>setPaused</li></ul></td></tr></tbody></table>
 
 ## View Methods
 
