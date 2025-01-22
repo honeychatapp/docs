@@ -16,6 +16,6 @@ The more badges you collect, the more points you accumulate in the Beradrop. Thi
 
 A smaller share of the total points in the Beradrop is distributed according to your ranking on our leaderboards. Although fewer points are allocated to these positions overall, there will be fewer recipients, which increases the advantage for those who actively compete.
 
-## Modifiers&#x20;
+## Bonuses
 
-Keep an eye out for special tasks and quests that will periodically appear. These activities unlock Modifier Badges - unique enhancements that don't award points directly. Instead, Modifiers multiply or alter your existing base points, potentially boosting your score significantly. Collect these badges to amplify your placement! \
+Keep an eye out for special tasks and quests that will periodically appear. These activities unlock Unique Modifier Badges - with unique enhancements that don't award points directly. Instead, Modifiers multiply or alter your existing base points, potentially boosting your score significantly. \
