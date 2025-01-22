@@ -1,9 +1,9 @@
 # 🔗 Official Links
 
-**Website:** [https://www.honeychat.app](https://x.com/HoneyChatApp)
+🌐 **Website:** [https://www.honeychat.app](https://x.com/HoneyChatApp)
 
-**Application:**[  https://buzz.honeychat.app](https://buzz.honeychat.app)
+▶️ **Application:**[  https://buzz.honeychat.app](https://buzz.honeychat.app)
 
-**Twitter/X:** [https://x.com/HoneyChatApp](https://x.com/HoneyChatApp)
+📝 **Twitter/X:** [https://x.com/HoneyChatApp](https://x.com/HoneyChatApp)
 
-**Berachain:**  [https://berachain.com](https://www.berachain.com)
+🐻⛓ **Berachain:**  [https://berachain.com](https://www.berachain.com)
