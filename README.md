@@ -8,7 +8,7 @@ description: The future of the SocialFi is here, proudly built on Berachain 🐻
 
 Honey Chat is a decentralized Social Networking and Finance (SocialFi) App—w**here sweet conversations meet crypto innovation**. This transformative concept aims to reshape the landscape of digital interactions by putting control, ownership, and monetization directly into the hands of content creators and their audiences.\
 \
-Join for free and engage in a seamless environment that blends social interaction with financial opportunities. A place where **fans, creators, and influencers seamlessly connect**, where your social interactions are not just about likes and shares but are **sweetened** with the taste of digital currency. Welcome to Honey Chat, a platform where **consumer crypto and the creator economy blend seamlessly.** Here, we're not just chatting; we're creating a BUZZ in the world of SocialFi.&#x20;
+Join for free and engage in a seamless environment that blends social interaction with financial opportunities. A place where **fans, creators, and influencers seamlessly connect**, where your social interactions are not just about likes and shares but are **sweetened** with the taste of digital currency. Welcome to Honey Chat, a platform where **consumer crypto and the creator economy blend seamlessly.** Here, we're not just chatting; we're creating a **BUZZ** in the world of SocialFi.&#x20;
 
 ## What is SocialFi?&#x20;
 
