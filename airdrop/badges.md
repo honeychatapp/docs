@@ -7,7 +7,7 @@ description: >-
 
 # ❤️‍🔥 Badges
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Reinactment of Badge Creation Process</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>A live reenactment of the badge creation process</p></figcaption></figure>
 
 ## Intro Badges&#x20;
 
