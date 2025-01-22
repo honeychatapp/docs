@@ -19,12 +19,11 @@
 * [🚀 Points Overview](beradrop/points-overview.md)
 * [❤️‍🔥 Badges](airdrop/badges.md)
 * [🏋️ Leaderboard](airdrop/leaderboard.md)
-* [↗️ Seasons](beradrop/deployments.md)
 
 ## maths
 
-* [🍯 Fee Model Overview](maths/fee-model-overview.md)
-* [⚖️ Tiered Access](maths/tiered-access.md)
+* [🍯 Fee Model Overview](maths/fee-model-overview/README.md)
+  * [⚖️ Tiered Access](maths/fee-model-overview/tiered-access.md)
 * [🧮 Access Pass Bonding Curves](maths/bonding-curve.md)
 * [📉 Shorting](maths/shorting.md)
 

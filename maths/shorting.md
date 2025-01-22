@@ -1,7 +1,7 @@
 ---
 description: >-
-  Engage in pass shorting by taking speculative positions on the anticipated
-  decrease in pass prices.
+  Engage in access pass shorting by taking speculative positions on the
+  anticipated decrease in pass prices.
 ---
 
 # 📉 Shorting
