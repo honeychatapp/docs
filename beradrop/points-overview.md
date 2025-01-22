@@ -1,8 +1,8 @@
 ---
 description: >-
   The Beradrop is our way of rewarding our community members for their
-  participation and achievements within the Honey Chat app. This system
-  encourages both active participation and standout performance
+  participation and achievements within Honey Chat. This system encourages both
+  active participation and outstanding performance.
 ---
 
 # 🚀 Points Overview
@@ -14,7 +14,7 @@ The more badges you collect, the more points you accumulate in the Beradrop. Thi
 
 ## Leaderboard Placement (Minority of Points)
 
-A smaller share of the total points in the Beradrop is distributed according to your ranking on our leaderboards. Although fewer points are allocated to these positions overall, there will be fewer recipients, which increases the advantage for those who actively compete.
+A smaller share of the total points in the Beradrop is distributed according to your ranking on our [leaderboard](../airdrop/leaderboard.md). Although fewer points are allocated to these positions overall, there will be fewer recipients, which increases the advantage for those who actively compete.
 
 ## Bonuses
 

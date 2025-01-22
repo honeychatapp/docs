@@ -1,8 +1,9 @@
 ---
 icon: '4'
 description: >-
-  This guide will walk you through the process of creating your own access pass,
-  which serves as your private group chatroom.
+  This guide will walk you through the process of creating your own access pass.
+  This pass acts as the key to your personal chatroom, where others can join by
+  purchasing your access pass.
 ---
 
 # Create your Access Pass

@@ -12,7 +12,11 @@ Honey Chat employs a transparent and flexible fee model to ensure fairness and s
 
 ### Vesting
 
-Upon a successful pass sale (buy/sell/short), 50% of the fee goes directly to the user whose pass is being transacted. The remaining 50% is stored in our Vesting contract where it is divided into 3 equal tranches. The first tranche vests at 30 days after the sale, the second after 60 days, and the third after 90 days. You may choose to cash out early for a slashed amount of the vested fees.&#x20;
+Upon a successful pass sale (buy/sell/short), 50% of the fee goes directly to the user whose pass is being transacted. The remaining 50% is stored in our Vesting contract where it is divided into 3 equal tranches. The first tranche vests at 30 days after the sale, the second after 60 days, and the third after 90 days.&#x20;
+
+{% hint style="info" %}
+You may choose to cash out early for a reduced amount of the vested fees. This mechanism is designed to encourage participants to remain engaged or committed over the full vesting period but provides an option for liquidity if needed.
+{% endhint %}
 
 ## **Subscription Model:**
 
