@@ -22,11 +22,9 @@ Subscription prices are initially set to free but can be manually adjusted by th
 
 _Access Passes are the core ownership item in Honey Chat_
 
-Individuals purchase access passes tied to their chosen creators, unlocking exclusive privileges, gaining entry to private chat rooms, direct messaging, exclusive content, and additional perks established by each creator. Purchasing an access pass gives you full access, including access to all other tiers. &#x20;
+Individuals purchase access passes tied to their chosen creators, gaining entry to private chat rooms, direct messaging, exclusive content, and additional perks established by each creator. Purchasing an access pass gives you full access, including access to all other tiers. &#x20;
 
 {% hint style="warning" %}
-In order for others to buy your Access Pass, you must buy at least one Pass from yourself. Once this action is complete, your pass can now be traded by anyone.&#x20;
+To allow others to buy your Access Pass, you need to [create](../how-to-guides/setup-your-chatroom.md) one first. Once created, your pass becomes tradable by anyone.
 {% endhint %}
-
-
 
