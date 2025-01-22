@@ -1,5 +1,5 @@
 ---
-description: The future of the SocialFi is here, Proudly build on Berachain 🐻⛓
+description: The future of the SocialFi is here, proudly built on Berachain 🐻⛓
 ---
 
 # 😄 A Short Explainer
