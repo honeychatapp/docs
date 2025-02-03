@@ -24,7 +24,7 @@ Showing Off and Establishing Reputation
 
 ### Path to Beradrop
 
-* Each badge you earn isn't just for show, it comes with points that count towards our Beradrop. The more badges you earn, the more points you accumulate, moving you closer to rewards and exclusive access. It's like collecting stars where each one brings you closer to a prize, linking your community contributions directly to tangible benefits.
+Each badge you earn isn't just for show, it comes with points that count towards our Beradrop. The more badges you earn, the more points you accumulate, moving you closer to rewards and exclusive access. It's like collecting stars where each one brings you closer to a prize, linking your community contributions directly to tangible benefits.
 
 
 

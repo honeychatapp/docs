@@ -1,5 +1,7 @@
 ---
-description: 'Honey Chat: Berachain''s Premier SocialFi App.'
+description: >-
+  Berachain's Premier SocialFi App | Shaping the future of Reputation, Capital &
+  Ownership
 ---
 
 # 😄 A Short Explainer
