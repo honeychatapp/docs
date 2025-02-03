@@ -1,4 +1,0 @@
-# 🤝 Partnerships
-
-partnerships@honeychat.app
-

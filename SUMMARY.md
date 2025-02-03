@@ -45,5 +45,4 @@
 ## Other&#x20;
 
 * [🤘 Branding Guidelines](other/branding-guidelines.md)
-* [🤝 Partnerships](other/partnerships.md)
-* [Press Inquiries](other/press-inquiries.md)
+* [Contact Us](other/contact-us.md)
