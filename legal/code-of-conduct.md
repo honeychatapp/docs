@@ -22,5 +22,5 @@ Content that explicitly threatens, incites, glorifies, or expresses a desire for
 
 ### Reporting Unacceptable Behavior:
 
-* If you encounter or witness unacceptable behavior, you can report it by contacting Honey Chat within the app on the 'help' page.
+* If you encounter or witness unacceptable behavior, you can report it by contacting Honey Chat within the app on the [help](https://buzz.honeychat.app/help)[ page](https://buzz.honeychat.app/help).
 * Honey Chat may take appropriate actions, including removing individuals from the app without warning.&#x20;

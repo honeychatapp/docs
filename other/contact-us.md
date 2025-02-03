@@ -8,4 +8,4 @@ icon: message-middle
 
 📰 **Press Inquires:** press@honeychat.app
 
-🙋🏻‍♂️ **In-App Support:** [https://buzz.honeychat.app/help](https://staging.honeychat.app/help)
+🙋🏻‍♂️ **In-App Support:** [Help Page](https://buzz.honeychat.app/help)
