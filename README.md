@@ -1,5 +1,5 @@
 ---
-description: The future of the SocialFi is here, proudly built on Berachain 🐻⛓
+description: 'Honey Chat: Berachain''s Premier SocialFi App.'
 ---
 
 # 😄 A Short Explainer
