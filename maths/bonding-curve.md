@@ -30,8 +30,6 @@ For pass prices when selling, the formula is slightly different:
 
 Where `f(x)` is the price of the next pass, measured in HONEY units, and `x` is the total passes in circulation (`x` increases when people buy and decreases when people sell).&#x20;
 
-To illustrate these formulas, let’s say Amber buys a pass from someone who has five pass holders. The purchase price for such a pass with five holders is x + 10% fee = x HONEY. Let’s say Amber wants to resell the pass when that person has 10 holders. The selling price would be x – 10% fee = x HONEY. Therefore, Amber’s profit would be x – x = x HONEY.
-
 ## Enhanced Trading Dynamics in Honey Chat
 
 The relationship between price and supply in Honey Chat is governed by a bonding curve equation that dynamically determines the pass price based on its supply. As the user base engages in buying passes, the price of each new pass rises in response to the bonding curve equation. Conversely, should users decide to sell their passes, the price experiences a decrease.
