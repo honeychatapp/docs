@@ -10,7 +10,7 @@ description: >-
 
 Token Info: [HONEY ](https://docs.berachain.com/learn/pol/tokens/honey)| [BERA](https://docs.berachain.com/learn/pol/tokens/bera)
 
-The following how-to guides will assist you with
+The following how-to guides will assist you with:
 
 * Connecting to Berachain for the First Time
 * Bridging in Your Existing Tokens
