@@ -8,7 +8,10 @@
 ## HOW-TO GUIDES
 
 * [Create an account](how-to-guides/create-an-account.md)
-* [Fund your Wallet](how-to-guides/fund-your-wallet.md)
+* [Fund your Wallet](how-to-guides/fund-your-wallet/README.md)
+  * [Bridge into Berachain](how-to-guides/fund-your-wallet/bridge-into-berachain.md)
+  * [Manual Deposit](how-to-guides/fund-your-wallet/manual-deposit.md)
+  * [1-Click Bridge & Deposit (coming soon)](how-to-guides/fund-your-wallet/1-click-bridge-and-deposit-coming-soon.md)
 * [Refer your Friends](how-to-guides/refer-your-friends.md)
 * [Create your Access Pass](how-to-guides/setup-your-chatroom.md)
 * [Setup your Subscription](how-to-guides/setup-your-subscription.md)
