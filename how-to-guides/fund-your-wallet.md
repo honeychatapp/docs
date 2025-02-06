@@ -8,7 +8,7 @@ description: >-
 
 # Fund your Wallet
 
-Token Info: [HONEY](https://docs.berachain.com/learn/pol/tokens/honey) | [BERA](https://docs.berachain.com/learn/pol/tokens/bera)
+Token Info: [HONEY ](https://docs.berachain.com/learn/pol/tokens/honey)| [BERA](https://docs.berachain.com/learn/pol/tokens/bera)
 
 ## Fund your Wallet with Crypto
 
