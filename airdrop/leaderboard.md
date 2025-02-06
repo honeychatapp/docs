@@ -1,7 +1,7 @@
 ---
 description: >-
-  Climb the leaderboard in seasonal challenges for bragging rights and beradrop
-  allocation.
+  Climb the leaderboard in seasonal challenges for bragging rights, beradrop
+  allocation and other unique perks.
 ---
 
 # 🏋️ Leaderboard

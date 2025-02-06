@@ -12,6 +12,7 @@
 * [Refer your Friends](how-to-guides/refer-your-friends.md)
 * [Create your Access Pass](how-to-guides/setup-your-chatroom.md)
 * [Setup your Subscription](how-to-guides/setup-your-subscription.md)
+* [Group Chats & DMs](how-to-guides/group-chats-and-dms.md)
 * [Earn Badges for Beradrop](how-to-guides/earn-badges-for-beradrop.md)
 
 ## Beradrop
@@ -19,6 +20,7 @@
 * [🚀 Points Overview](beradrop/points-overview.md)
 * [❤️‍🔥 Badges](airdrop/badges.md)
 * [🏋️ Leaderboard](airdrop/leaderboard.md)
+* [⚡ Season 1](beradrop/season-1.md)
 
 ## maths
 
