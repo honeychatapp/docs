@@ -11,19 +11,19 @@ The bonding curve formula for pass prices when buying is the following equation:
 LOW
 
 $$
-f(x) = x * e^{2 pi i \xi x}
+f(x) =
 $$
 
 MID
 
 $$
-f(x) = x * e^{2 pi i \xi x}
+f(x) =
 $$
 
 HIGH
 
 $$
-f(x) = x * e^{2 pi i \xi x}
+f(x) =
 $$
 
 For pass prices when selling, the formula is slightly different:
