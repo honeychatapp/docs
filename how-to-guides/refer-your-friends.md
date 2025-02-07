@@ -11,4 +11,8 @@ description: Reap rewards by inviting new bera's to join the Honey Chat app.
 Step 4: Here, you'll create or find your unique referral code or link. This is your personal invitation for others to join Honey Chat.\
 Step 5: Share your referral code/link!&#x20;
 
+{% hint style="info" %}
+**Reminder Alert!:** Tell your friends that after they fund their wallet, they need to activate your referral code to unlock their reward. Honey Chat loves active bees!
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/Honey Chat Test (11).png" alt=""><figcaption></figcaption></figure>

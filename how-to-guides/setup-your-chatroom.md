@@ -9,7 +9,13 @@ description: >-
 # Create your Access Pass
 
 **Step 1:** Begin by opening the Honey Chat app and navigating to your profile page. \
-**Step 2:** Once in your profile, find and click the "Buy" button. This action initiates the process of purchasing the initial access passes for your chatroom.\
+**Step 2:** Once in your profile, find and click the "Buy" button. This action initiates the process of purchasing the initial access passes for your chatroom.
+
+{% hint style="info" %}
+Remember to approve your HONEY on the wallet page prior
+{% endhint %}
+
+\
 **Step 3:** You'll be guided through a setup process. Select a bonding curve that aligns with your chatroom's goals and audience expectations. Each curve impacts how your passes are priced on the market.\
 Step 4: Decide how many initial passes you want to buy. This decision affects the initial liquidity and potential growth of your chatroom.\
 Step 5: Finalize your purchase by completing the transaction. This step will mint your chatroom passes on the Berachain blockchain.\
