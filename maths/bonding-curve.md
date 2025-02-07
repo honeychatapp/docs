@@ -6,30 +6,6 @@ description: Pass Pricing Mechanism
 
 Honey Chat employs a bonding curve to determine pass prices, acting as a mathematical formula governing token price changes. The bonding curve connects the creation of new passes with the cryptocurrency 'bonded' or put into the system.&#x20;
 
-The bonding curve formula for pass prices when buying is the following equation:\
-\
-LOW
-
-$$
-f(x) =
-$$
-
-MID
-
-$$
-f(x) =
-$$
-
-HIGH
-
-$$
-f(x) =
-$$
-
-For pass prices when selling, the formula is slightly different:
-
-Where `f(x)` is the price of the next pass, measured in HONEY units, and `x` is the total passes in circulation (`x` increases when people buy and decreases when people sell).&#x20;
-
 ## Enhanced Trading Dynamics in Honey Chat
 
 The relationship between price and supply in Honey Chat is governed by a bonding curve equation that dynamically determines the pass price based on its supply. As the user base engages in buying passes, the price of each new pass rises in response to the bonding curve equation. Conversely, should users decide to sell their passes, the price experiences a decrease.
