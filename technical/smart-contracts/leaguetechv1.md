@@ -139,18 +139,6 @@ Return Value
 | ------- | -------------------------------------------------------------------- |
 | uint256 | Total sell price for the amount of shares specified (including fees) |
 
-### getSubscriptionPriceAfterFee
-
-`getSubscriptionPriceAfterFee()`
-
-Gets the total subscription price to subscribe to any user, including fees. The return value should be passed as the `msg.value` for a `buySubscription` or `buySubscriptionWithRefferer` transaction.
-
-Return Value
-
-| Type    | Description                                                      |
-| ------- | ---------------------------------------------------------------- |
-| uint256 | Total subscription price to subscribe to a user (including fees) |
-
 ## Write Methods
 
 ### buySharesWithReferrer
