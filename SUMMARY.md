@@ -36,8 +36,6 @@
 
 * [📚 Smart Contracts](technical/smart-contracts/README.md)
   * [HoneyChatV1](technical/smart-contracts/leaguetechv1.md)
-  * [ProxyAdmin](technical/smart-contracts/proxyadmin.md)
-  * [Timelock](technical/smart-contracts/timelock.md)
 * [🫡 Deployments](technical/deployments.md)
 * [🔐 Security & Audits](technical/security-and-audits.md)
 
