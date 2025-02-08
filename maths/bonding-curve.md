@@ -6,17 +6,17 @@ description: Pass Pricing Mechanism
 
 Honey Chat employs a bonding curve to determine pass prices, acting as a mathematical formula governing token price changes. The bonding curve connects the creation of new passes with the cryptocurrency 'bonded' or put into the system.&#x20;
 
-## LOW CURVE
+### LOW CURVE
 
 <div align="left"><figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure></div>
 
-## MID CURVE
+### MID CURVE
 
 ![](<../.gitbook/assets/image (15).png>)\
 \
 
 
-## HIGH CURVE
+### HIGH CURVE
 
 <div align="left"><figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure></div>
 
