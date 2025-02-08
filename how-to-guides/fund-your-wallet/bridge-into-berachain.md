@@ -7,7 +7,26 @@ description: >-
 
 # Bridge into Berachain
 
-## Bridge
+## Option 1: Purchase & Transfer BERA via Coinbase
+
+BERA token can be purchased directly on Coinbase and then sent to an external wallet (eg: Metamask). Many people may find this the simplest method to acquire BERA.
+
+**Step 1:** Log in to your [Coinbase](https://www.coinbase.com/) account\
+**Step 2**: Search for “BERA” in the Coinbase asset search bar. \
+**Step 3**: Click on “Buy” and enter the amount of BERA you want to purchase. Confirm the details and complete the transaction to exchange USD for BERA.\
+**Step 4**: After purchasing, visit the My Assets tab find your BERA balance.\
+**Step 5**: Click “Send Crypto” <img src="../../.gitbook/assets/image (2).png" alt="" data-size="line">\
+**Step 6:** Enter the external wallet address to send the BERA (eg: your Metamask address). Ensure you and only you have access to this wallet.\
+**Step 7**: Confirm the transaction details and complete the transfer on Coinbase. Transfers should complete within 1-5 minutes.\
+![](<../../.gitbook/assets/image (1).png>)
+
+{% hint style="info" %}
+Double-check the external wallet address before confirming the transfer. You and only you should have access to the destination wallet. Beware of scams.
+{% endhint %}
+
+
+
+## Option 2: Bridge
 
 **Step 1:** Open your browser (Chrome or Brave recommended) and navigate to the official Berachain Bridge [https://bridge.berachain.com/](https://bridge.berachain.com/bridge/token)\
 **Step 2:** Click on the "Connect Wallet" button and choose your wallet of choice.\
@@ -22,7 +41,7 @@ description: >-
 Once your bridge has been completed, please proceed to the next step of exchanging your bridged tokens for BERA and HONEY,
 {% endhint %}
 
-## Swap
+## Swap Other Cryptos for BERA & HONEY
 
 **Step 1:** Navigate to Berachain's official swap page at [https://hub.berachain.com/swap/](https://hub.berachain.com/swap/)\
 **Step 2:** Connect your wallet of choice by clicking the "Connect Wallet" button.\
