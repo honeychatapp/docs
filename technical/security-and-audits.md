@@ -6,5 +6,5 @@ description: Security is our top priority
 
 We prioritize trust by providing an end-to-end secure experience while using our products.
 
-## HoneyChatTechV1 Audits
+## HoneyChatV1 Audits
 
