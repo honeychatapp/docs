@@ -10,7 +10,7 @@ Connect an existing wallet and simply bridge, swap, and deposit assets from anot
 **Step 4:** Select either HONEY or BERA to bridge and deposit into your Honey Chat Wallet on Berachain. \
 **Step 5:** Initiate the process to transfer your chosen assets from the source blockchain to Berachain.
 
-<figure><img src="../../../.gitbook/assets/Honey Chat Test (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Honey Chat Test (8).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Your Honey Chat wallet is automatically set as the destination for your Bridge in & Deposit transaction.
