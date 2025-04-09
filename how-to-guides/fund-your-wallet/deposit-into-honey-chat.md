@@ -5,7 +5,7 @@ description: >-
   deposit into your Honey Chat account.
 ---
 
-# Manual Process
+# Connect Manually
 
 ## Step 1: Bridge
 

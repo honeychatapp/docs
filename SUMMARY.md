@@ -9,9 +9,9 @@
 
 * [Create an account](how-to-guides/create-an-account.md)
 * [Fund your Wallet](how-to-guides/fund-your-wallet/README.md)
-  * [Bridge in & Deposit](how-to-guides/fund-your-wallet/bridge-in-and-deposit.md)
-  * [Connect Coinbase](how-to-guides/fund-your-wallet/connect-coinbase.md)
-  * [Connect Manually](how-to-guides/fund-your-wallet/connect-manually.md)
+  * [Bridge in & Deposit](how-to-guides/fund-your-wallet/1-click-bridge-and-deposit-coming-soon.md)
+  * [Connect Coinbase](how-to-guides/fund-your-wallet/bridge-into-berachain.md)
+  * [Connect Manually](how-to-guides/fund-your-wallet/deposit-into-honey-chat.md)
 * [Refer your Friends](how-to-guides/refer-your-friends.md)
 * [Create your Access Pass](how-to-guides/setup-your-chatroom.md)
 * [Setup your Subscription](how-to-guides/setup-your-subscription.md)
