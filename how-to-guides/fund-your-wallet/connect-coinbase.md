@@ -1,8 +1,8 @@
-# Coinbase
+# Connect Coinbase
 
 ## Purchase & Transfer BERA via Coinbase
 
-BERA token can be purchased directly on Coinbase and then sent to an external wallet (eg: Metamask). Many people may find this the simplest method to acquire BERA.
+BERA token can be purchased directly on Coinbase and then sent to an external wallet (e.g. your Honey Chat account). Many people may find this the simplest method to acquire BERA.
 
 **Step 1:** Log in to your [Coinbase](https://www.coinbase.com/) account\
 **Step 2**: Search for “BERA” in the Coinbase asset search bar. \
@@ -15,9 +15,7 @@ BERA token can be purchased directly on Coinbase and then sent to an external wa
 \
 ![](<../../.gitbook/assets/image (1).png>)
 
-{% hint style="info" %}
-Double-check the external wallet address before confirming the transfer. You and only you should have access to the destinaion wallet. Beware of scams.
-{% endhint %}
+
 
 
 
