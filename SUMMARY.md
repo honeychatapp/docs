@@ -21,7 +21,9 @@
 ## Beradrop
 
 * [🚀 Points Overview](beradrop/points-overview.md)
-* [❤️‍🔥 Badges](airdrop/badges.md)
+* [❤️‍🔥 Badges](beradrop/badges/README.md)
+  * [Core Badges](beradrop/badges/core-badges.md)
+  * [Unique Community Badges](beradrop/badges/unique-community-badges.md)
 * [🏋️ Leaderboard](airdrop/leaderboard.md)
 * [⚡ Season 1](beradrop/season-1.md)
 

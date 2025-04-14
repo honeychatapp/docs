@@ -7,13 +7,13 @@ description: >-
 
 # ❤️‍🔥 Badges
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>A live reenactment of the badge creation process</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>A live reenactment of the badge creation process</p></figcaption></figure>
 
 ## Intro Badges&#x20;
 
 Imagine you're in a new school or a club where everyone is starting from scratch, but you can earn stars or pins for being awesome at something. That's what badges are like in Honey Chat.
 
-<div><figure><img src="../.gitbook/assets/Property 1=season1, Property 2=trader, Property 3=behaviorB, Property 4=1.png" alt=""><figcaption><p>Level 1</p></figcaption></figure> <figure><img src="../.gitbook/assets/Property 1=season1, Property 2=trader, Property 3=behaviorB, Property 4=2.png" alt=""><figcaption><p>Level 2</p></figcaption></figure> <figure><img src="../.gitbook/assets/Property 1=season1, Property 2=trader, Property 3=behaviorB, Property 4=3.png" alt=""><figcaption><p>Level 3</p></figcaption></figure> <figure><img src="../.gitbook/assets/Property 1=season1, Property 2=trader, Property 3=behaviorB, Property 4=4.png" alt=""><figcaption><p>Level 4</p></figcaption></figure> <figure><img src="../.gitbook/assets/Property 1=season1, Property 2=trader, Property 3=behaviorB, Property 4=5.png" alt=""><figcaption><p>Level 5</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Property 1=season1, Property 2=trader, Property 3=behaviorB, Property 4=1.png" alt=""><figcaption><p>Level 1</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Property 1=season1, Property 2=trader, Property 3=behaviorB, Property 4=2.png" alt=""><figcaption><p>Level 2</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Property 1=season1, Property 2=trader, Property 3=behaviorB, Property 4=3.png" alt=""><figcaption><p>Level 3</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Property 1=season1, Property 2=trader, Property 3=behaviorB, Property 4=4.png" alt=""><figcaption><p>Level 4</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Property 1=season1, Property 2=trader, Property 3=behaviorB, Property 4=5.png" alt=""><figcaption><p>Level 5</p></figcaption></figure></div>
 
 ## Two Primary Roles of Badges
 
