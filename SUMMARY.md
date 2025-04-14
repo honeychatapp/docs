@@ -11,7 +11,7 @@
 * [Fund your Wallet](how-to-guides/fund-your-wallet/README.md)
   * [Bridge in & Deposit](how-to-guides/fund-your-wallet/1-click-bridge-and-deposit-coming-soon.md)
   * [Connect Coinbase](how-to-guides/fund-your-wallet/bridge-into-berachain.md)
-  * [Connect Manually](how-to-guides/fund-your-wallet/deposit-into-honey-chat.md)
+  * [Connect an External Wallet](how-to-guides/fund-your-wallet/connect-an-external-wallet.md)
 * [Refer your Friends](how-to-guides/refer-your-friends.md)
 * [Create your Access Pass](how-to-guides/setup-your-chatroom.md)
 * [Setup your Subscription](how-to-guides/setup-your-subscription.md)
@@ -23,7 +23,7 @@
 * [🚀 Points Overview](beradrop/points-overview.md)
 * [❤️‍🔥 Badges](beradrop/badges/README.md)
   * [Core Badges](beradrop/badges/core-badges.md)
-  * [Unique Community Badges](beradrop/badges/unique-community-badges.md)
+  * [Community Badges](beradrop/badges/community-badges.md)
 * [🏋️ Leaderboard](airdrop/leaderboard.md)
 * [⚡ Season 1](beradrop/season-1.md)
 
