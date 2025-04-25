@@ -18,4 +18,4 @@ A smaller share of the total points in the Beradrop is distributed according to 
 
 ## Bonuses
 
-Keep an eye out for special tasks and quests that will periodically appear. These activities unlock Unique Modifier Badges - with unique enhancements that don't award points directly. Instead, Modifiers multiply or alter your existing base points, potentially boosting your score significantly. \
+Keep an eye out for special tasks and quests like the [community badges](badges/community-badges.md). These activities unlock Unique Modifier Badges - with unique enhancements that don't award points directly. Instead, Modifiers multiply or alter your existing base points, potentially boosting your score significantly. \
