@@ -1,11 +1,11 @@
 ---
-icon: '7'
 description: >-
-  The primary way to earn the Beradrop is to earn badges on Honey Chat! The
+  The primary way to earn the airdrop is to earn badges on Honey Chat! The
   secondary way is to compete on the Leaderboard!
+icon: '7'
 ---
 
-# Earn Badges for Beradrop
+# Earn Badges for Aidrop
 
 **Step 1:** Navigate to the "Rewards" section in Honey Chat's app.\
 **Step 2:** Go to the "Training" tab and complete all of your training quests!\

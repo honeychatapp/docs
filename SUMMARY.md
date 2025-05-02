@@ -16,16 +16,16 @@
 * [Create your Access Pass](how-to-guides/setup-your-chatroom.md)
 * [Setup your Subscription](how-to-guides/setup-your-subscription.md)
 * [Group Chats & DMs](how-to-guides/group-chats-and-dms.md)
-* [Earn Badges for Beradrop](how-to-guides/earn-badges-for-beradrop.md)
+* [Earn Badges for Aidrop](how-to-guides/earn-badges-for-aidrop.md)
 
-## Beradrop
+## Airdrop
 
-* [🚀 Points Overview](beradrop/points-overview.md)
-* [❤️‍🔥 Badges](beradrop/badges/README.md)
-  * [Core Badges](beradrop/badges/core-badges.md)
-  * [Community Badges](beradrop/badges/community-badges.md)
+* [🚀 Points Overview](airdrop/points-overview.md)
+* [❤️‍🔥 Badges](airdrop/badges/README.md)
+  * [Core Badges](airdrop/badges/core-badges.md)
+  * [Community Badges](airdrop/badges/community-badges.md)
 * [🏋️ Leaderboard](airdrop/leaderboard.md)
-* [⚡ Season 1](beradrop/season-1.md)
+* [⚡ Season 1](airdrop/season-1.md)
 
 ## maths
 
