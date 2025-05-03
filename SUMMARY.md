@@ -16,7 +16,7 @@
 * [Create your Access Pass](how-to-guides/setup-your-chatroom.md)
 * [Setup your Subscription](how-to-guides/setup-your-subscription.md)
 * [Group Chats & DMs](how-to-guides/group-chats-and-dms.md)
-* [Earn Badges for Aidrop](how-to-guides/earn-badges-for-aidrop.md)
+* [Earn Badges for Airdrop](how-to-guides/earn-badges-for-airdrop.md)
 
 ## Airdrop
 
